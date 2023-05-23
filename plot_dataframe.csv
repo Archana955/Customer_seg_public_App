@@ -1,0 +1,2230 @@
+,index,Education,Expenses,Purchases,Acceptance,day_engaged,Enr_Freq,Income_Category,Family,Customer_Segment
+0,0,Grad,1617,25,0,849,11,upper_middle,1,Boomer
+1,1,Grad,27,6,0,299,9,middle,3,Boomer
+2,2,Grad,776,21,0,498,10,upper_middle,2,Boomer
+3,3,Grad,53,8,0,325,9,lower,3,Millennial
+4,4,PostGrad,422,19,0,347,9,upper_middle,3,Gen X
+5,5,PostGrad,716,22,0,479,10,upper_middle,3,Boomer
+6,6,Grad,590,21,0,779,11,middle,2,Gen X
+7,7,PostGrad,169,10,0,603,10,middle,3,Millennial
+8,8,PostGrad,46,6,0,574,10,middle,3,Gen X
+9,9,PostGrad,49,2,1,294,9,lower,4,Silent
+10,10,Grad,19,4,0,412,10,middle,3,Millennial
+11,11,Undergrad,61,6,0,779,11,lower,2,Gen X
+12,12,Grad,1102,16,0,412,10,upper_middle,1,Boomer
+13,13,PostGrad,310,15,0,412,10,upper_middle,3,Silent
+14,14,Grad,46,5,0,813,11,lower,2,Millennial
+15,15,PostGrad,1315,26,2,768,11,upper_middle,1,Silent
+16,16,Grad,96,9,0,738,11,middle,4,Gen X
+17,17,Grad,317,13,0,853,11,middle,2,Silent
+18,18,PostGrad,1782,26,1,644,10,upper_middle,3,Silent
+19,19,PostGrad,133,8,0,789,11,middle,2,Millennial
+20,20,Grad,316,12,0,876,11,middle,2,Millennial
+21,21,Grad,1730,43,0,725,10,lower,3,Gen X
+22,22,PostGrad,972,17,1,739,11,upper_middle,3,Silent
+23,23,PostGrad,544,20,0,355,9,upper_middle,3,Boomer
+24,24,Grad,444,20,0,654,10,middle,3,Silent
+25,25,Grad,75,8,0,729,10,lower,1,Gen X
+26,26,Grad,257,14,0,584,10,middle,4,Gen X
+27,27,Grad,637,27,0,680,10,middle,2,Millennial
+28,28,Grad,131,9,0,580,10,middle,3,Millennial
+29,29,PostGrad,1672,26,1,405,10,upper_middle,2,Boomer
+30,30,PostGrad,30,8,0,224,9,lower,1,Millennial
+31,31,PostGrad,318,11,0,600,10,middle,2,Boomer
+32,32,Grad,120,9,1,813,11,middle,3,Gen X
+33,33,PostGrad,302,17,0,794,11,middle,3,Silent
+34,34,PostGrad,1196,18,0,680,10,upper_middle,2,Silent
+35,35,PostGrad,65,6,0,490,10,middle,3,Silent
+36,36,PostGrad,913,28,0,366,10,upper_middle,3,Gen X
+37,37,PostGrad,81,9,0,486,10,lower,3,Gen X
+38,38,Grad,67,7,0,324,9,middle,2,Gen X
+39,39,PostGrad,902,24,1,699,10,middle,1,Silent
+40,40,Grad,1395,21,0,612,10,upper_middle,3,Gen X
+41,41,PostGrad,53,7,0,660,10,lower,3,Millennial
+42,42,Grad,22,4,0,738,11,lower,3,Boomer
+43,43,PostGrad,186,9,0,422,10,middle,1,Boomer
+44,44,PostGrad,31,8,0,456,10,lower,3,Gen X
+45,45,Grad,984,16,0,187,9,upper_middle,1,Gen X
+46,46,PostGrad,122,10,0,783,11,lower,2,Millennial
+47,47,Grad,55,5,0,587,10,middle,3,Gen X
+48,48,Grad,124,10,0,365,9,middle,4,Silent
+49,49,PostGrad,1319,28,0,784,11,upper_middle,4,Boomer
+50,50,Grad,507,17,0,234,9,upper_middle,2,Boomer
+51,51,PostGrad,1693,29,0,873,11,upper_middle,2,Boomer
+52,52,Grad,72,7,0,729,10,middle,2,Gen X
+53,53,Grad,1617,21,2,208,9,upper_middle,1,Gen X
+54,54,Grad,606,23,0,568,10,upper_middle,4,Gen X
+55,55,PostGrad,1957,27,1,773,11,upper_middle,2,Boomer
+56,56,Grad,1093,21,0,639,10,upper_middle,1,Boomer
+57,57,Grad,29,6,0,248,9,lower,2,Millennial
+58,58,Grad,46,7,0,563,10,middle,2,Millennial
+59,59,PostGrad,518,19,0,304,9,middle,3,Gen X
+60,60,PostGrad,1438,21,2,546,10,upper_middle,1,Millennial
+61,61,Grad,612,22,0,846,11,upper_middle,4,Gen X
+62,62,Grad,884,24,0,682,10,upper_middle,2,Silent
+63,63,PostGrad,606,19,0,569,10,upper_middle,2,Silent
+64,64,Grad,1076,16,0,391,10,upper_middle,2,Silent
+65,65,Grad,34,5,0,590,10,lower,3,Gen X
+66,66,Grad,11,4,0,235,9,middle,4,Boomer
+67,67,PostGrad,1274,32,2,288,9,upper,2,Gen X
+68,68,Grad,653,18,0,461,10,upper_middle,3,Boomer
+69,69,Grad,1562,19,0,633,10,upper_middle,5,Gen X
+70,70,PostGrad,1253,21,0,842,11,upper_middle,2,Boomer
+71,71,PostGrad,109,9,0,839,11,middle,3,Gen X
+72,72,Grad,863,30,0,655,10,upper_middle,3,Boomer
+73,73,PostGrad,661,24,1,636,10,upper_middle,4,Gen X
+74,74,Grad,65,8,0,246,9,lower,2,Silent
+75,75,Grad,13,4,0,743,11,middle,2,Gen X
+76,76,PostGrad,1890,19,0,857,11,upper_middle,2,Gen X
+77,77,Grad,2209,22,1,811,11,upper_middle,1,Gen X
+78,78,PostGrad,18,4,0,484,10,lower,2,Gen X
+79,79,Grad,692,21,1,729,10,middle,2,Boomer
+80,80,Grad,165,12,0,855,11,middle,2,Millennial
+81,81,Grad,16,4,0,557,10,lower,3,Gen X
+82,82,PostGrad,79,9,0,547,10,lower,3,Gen X
+83,83,PostGrad,318,11,0,600,10,middle,2,Boomer
+84,84,Grad,778,27,0,310,9,upper_middle,1,Millennial
+85,85,Grad,56,7,0,508,10,lower,4,Boomer
+86,86,PostGrad,151,13,1,534,10,middle,4,Gen X
+87,87,Grad,372,17,2,218,9,middle,2,Boomer
+88,88,Grad,1366,19,1,234,9,upper_middle,2,Gen X
+89,89,Grad,194,10,0,345,9,middle,3,Boomer
+90,90,PostGrad,603,29,0,773,11,middle,5,Boomer
+91,91,Grad,18,4,0,219,9,middle,3,Boomer
+92,92,PostGrad,985,15,0,404,10,middle,2,Gen X
+93,93,PostGrad,32,5,0,284,9,middle,2,Gen X
+94,94,PostGrad,43,10,0,222,9,lower,3,Gen X
+95,95,Grad,45,6,0,224,9,middle,3,Millennial
+96,96,Grad,606,22,1,770,11,middle,2,Boomer
+97,97,Grad,63,7,0,630,10,middle,3,Gen X
+98,98,PostGrad,978,25,1,396,10,upper_middle,2,Silent
+99,99,PostGrad,410,16,0,560,10,middle,2,Millennial
+100,100,PostGrad,72,7,0,527,10,middle,2,Boomer
+101,101,PostGrad,55,7,0,277,9,middle,2,Boomer
+102,102,Grad,1169,27,0,621,10,upper_middle,3,Gen X
+103,103,PostGrad,1120,16,0,594,10,upper_middle,2,Silent
+104,104,Grad,1097,20,0,238,9,upper,2,Boomer
+105,105,Undergrad,29,5,0,387,10,lower,3,Gen X
+106,106,Grad,187,13,0,464,10,middle,4,Boomer
+107,107,Grad,910,26,0,698,10,middle,4,Gen X
+108,108,Grad,145,9,0,743,11,middle,2,Gen X
+109,109,PostGrad,850,14,0,755,11,upper,2,Boomer
+110,110,Grad,969,24,0,425,10,upper_middle,3,Gen X
+111,111,PostGrad,1820,17,1,782,11,upper_middle,1,Millennial
+112,112,PostGrad,608,20,1,190,9,middle,3,Boomer
+113,113,Grad,730,25,2,729,10,upper,1,Millennial
+114,114,PostGrad,551,21,0,750,11,middle,3,Gen X
+115,115,Grad,114,8,0,478,10,middle,3,Boomer
+116,116,Grad,1724,15,2,342,9,upper,2,Gen X
+117,117,PostGrad,577,20,0,681,10,middle,3,Gen X
+118,118,PostGrad,81,7,0,539,10,middle,4,Boomer
+119,119,Grad,33,7,0,413,10,lower,3,Gen X
+120,120,PostGrad,660,22,0,560,10,middle,3,Silent
+121,121,PostGrad,80,9,0,311,9,middle,2,Boomer
+122,122,PostGrad,30,6,0,484,10,lower,4,Millennial
+123,123,Grad,43,5,0,619,10,middle,2,Gen X
+124,124,Grad,1135,27,3,660,10,upper,1,Millennial
+125,125,PostGrad,559,16,0,682,10,upper_middle,2,Boomer
+126,126,Grad,1923,16,0,620,10,upper_middle,1,Millennial
+127,127,PostGrad,90,8,0,207,9,middle,4,Silent
+128,128,PostGrad,404,17,0,539,10,middle,3,Boomer
+129,129,PostGrad,661,23,0,236,9,upper_middle,4,Boomer
+130,130,Grad,463,19,0,458,10,upper_middle,3,Silent
+131,131,PostGrad,632,23,0,662,10,upper_middle,3,Boomer
+132,132,Grad,725,19,0,325,9,upper_middle,2,Gen X
+133,133,Grad,725,19,0,508,10,middle,3,Boomer
+134,134,PostGrad,279,16,0,505,10,middle,4,Boomer
+135,135,PostGrad,1482,23,1,655,10,upper_middle,2,Boomer
+136,136,Undergrad,29,6,0,876,11,lower,2,Gen X
+137,137,PostGrad,106,9,0,543,10,middle,5,Boomer
+138,138,PostGrad,49,6,1,227,9,middle,3,Gen X
+139,139,PostGrad,38,7,0,522,10,middle,3,Boomer
+140,140,PostGrad,2077,22,0,804,11,upper,1,Millennial
+141,141,PostGrad,1053,17,0,413,10,upper_middle,3,Gen X
+142,142,Grad,1385,23,0,622,10,upper,2,Boomer
+143,143,PostGrad,871,25,0,491,10,upper_middle,2,Gen X
+144,144,Grad,312,12,0,653,10,middle,3,Millennial
+145,145,Grad,877,15,0,805,11,upper_middle,4,Gen X
+146,146,Grad,68,6,0,795,11,lower,3,Gen X
+147,147,Grad,22,4,0,491,10,middle,3,Gen X
+148,148,PostGrad,211,16,0,862,11,middle,5,Gen X
+149,149,PostGrad,127,8,0,194,9,middle,2,Boomer
+150,150,PostGrad,459,16,0,252,9,upper_middle,4,Silent
+151,151,Grad,460,19,1,300,9,upper_middle,3,Gen X
+152,152,PostGrad,429,17,0,748,11,middle,3,Gen X
+153,153,Grad,89,11,0,234,9,middle,2,Millennial
+154,154,PostGrad,1021,26,0,814,11,upper_middle,3,Silent
+155,155,Grad,1381,21,2,681,10,upper_middle,2,Silent
+156,156,Grad,306,15,0,542,10,middle,2,Boomer
+157,157,Grad,18,4,0,476,10,upper_middle,4,Gen X
+158,158,Grad,162,9,0,441,10,middle,3,Gen X
+159,159,Grad,1231,18,0,499,10,upper_middle,1,Boomer
+160,160,PostGrad,13,4,0,549,10,middle,4,Boomer
+161,161,PostGrad,1706,27,0,787,11,upper_middle,2,Silent
+162,162,Grad,121,11,0,361,9,lower,3,Millennial
+163,163,PostGrad,1293,20,0,610,10,upper_middle,1,Gen X
+164,165,Grad,88,9,0,414,10,middle,5,Boomer
+165,166,Grad,421,18,1,409,10,upper_middle,1,Silent
+166,167,Grad,259,12,1,491,10,middle,1,Boomer
+167,168,Grad,1117,15,0,425,10,upper_middle,1,Millennial
+168,169,Grad,89,9,0,310,9,lower,4,Boomer
+169,170,Grad,36,6,0,255,9,middle,4,Boomer
+170,171,Grad,57,7,0,537,10,lower,3,Millennial
+171,172,Grad,148,8,0,255,9,middle,4,Gen X
+172,173,PostGrad,93,8,0,336,9,middle,4,Boomer
+173,174,Grad,119,7,1,272,9,middle,2,Boomer
+174,175,PostGrad,1835,28,0,841,11,upper_middle,3,Gen X
+175,176,PostGrad,1318,25,2,746,11,upper_middle,2,Silent
+176,177,PostGrad,45,7,0,223,9,middle,4,Gen X
+177,178,Grad,10,4,0,191,9,middle,5,Boomer
+178,179,PostGrad,978,25,1,396,10,upper_middle,2,Silent
+179,180,PostGrad,191,10,0,235,9,middle,3,Gen X
+180,181,PostGrad,57,9,0,236,9,lower,3,Millennial
+181,182,PostGrad,1033,24,0,460,10,upper_middle,2,Silent
+182,183,PostGrad,66,6,0,344,9,middle,3,Millennial
+183,184,Undergrad,43,6,0,200,9,lower,2,Boomer
+184,185,Grad,50,5,0,757,11,lower,3,Millennial
+185,186,PostGrad,39,7,0,299,9,middle,2,Gen X
+186,187,Grad,608,18,0,517,10,upper_middle,3,Boomer
+187,188,Grad,1581,24,0,653,10,upper_middle,2,Gen X
+188,189,PostGrad,68,7,0,677,10,middle,4,Boomer
+189,190,Undergrad,80,5,1,844,11,lower,3,Gen X
+190,191,PostGrad,1282,28,0,594,10,upper_middle,2,Millennial
+191,193,Grad,91,8,0,581,10,middle,3,Millennial
+192,194,Grad,315,16,0,682,10,middle,4,Gen X
+193,195,Grad,31,6,0,368,10,middle,4,Gen X
+194,196,PostGrad,834,23,0,233,9,upper_middle,2,Gen X
+195,197,Grad,1600,17,1,469,10,upper_middle,2,Boomer
+196,198,Grad,1270,17,0,714,10,upper,2,Boomer
+197,199,PostGrad,263,15,1,276,9,middle,3,Gen X
+198,200,Grad,535,19,1,186,9,upper_middle,2,Silent
+199,201,Grad,1295,18,0,388,10,upper_middle,1,Gen X
+200,202,Grad,1150,29,0,444,10,upper_middle,2,Gen X
+201,203,PostGrad,1240,26,3,790,11,upper,2,Gen X
+202,204,PostGrad,38,6,0,533,10,middle,3,Boomer
+203,205,PostGrad,35,4,1,782,11,lower,1,Millennial
+204,206,Grad,53,5,1,389,10,lower,3,Millennial
+205,207,PostGrad,293,17,0,598,10,middle,3,Boomer
+206,208,Grad,65,6,0,207,9,middle,3,Boomer
+207,209,Grad,1804,29,1,843,11,upper_middle,2,Boomer
+208,210,Grad,241,15,0,641,10,middle,3,Boomer
+209,211,Grad,1101,20,0,289,9,upper_middle,2,Boomer
+210,212,PostGrad,264,19,0,818,11,middle,4,Gen X
+211,213,PostGrad,541,26,0,710,10,middle,4,Gen X
+212,214,Grad,1198,17,0,607,10,upper_middle,2,Millennial
+213,215,Grad,482,20,0,275,9,middle,3,Gen X
+214,216,PostGrad,17,4,0,234,9,middle,4,Gen X
+215,217,PostGrad,1615,25,2,412,10,upper_middle,2,Silent
+216,218,PostGrad,285,12,0,488,10,middle,2,Boomer
+217,219,Grad,1135,28,0,778,11,upper_middle,3,Gen X
+218,220,PostGrad,114,7,0,265,9,middle,3,Millennial
+219,221,Grad,1047,16,0,413,10,upper_middle,2,Gen X
+220,222,PostGrad,714,22,0,262,9,upper_middle,4,Gen X
+221,223,PostGrad,185,13,0,726,10,middle,3,Gen X
+222,224,Grad,1245,32,0,845,11,upper_middle,2,Boomer
+223,225,Grad,189,12,0,646,10,middle,3,Gen X
+224,226,Grad,576,16,0,798,11,middle,3,Gen X
+225,227,Grad,1103,18,0,753,11,middle,2,Silent
+226,228,PostGrad,1753,17,0,876,11,upper_middle,2,Gen X
+227,229,PostGrad,17,4,0,319,9,middle,3,Millennial
+228,230,Grad,433,23,0,652,10,middle,3,Boomer
+229,231,PostGrad,1588,14,1,726,10,upper_middle,2,Boomer
+230,232,Grad,22,4,0,596,10,middle,3,Gen X
+231,233,Grad,19,5,0,260,9,lower,1,Silent
+232,234,PostGrad,1117,29,0,649,10,upper_middle,3,Boomer
+233,235,PostGrad,69,8,0,388,10,lower,3,Gen X
+234,236,PostGrad,23,5,0,393,10,lower,3,Millennial
+235,237,PostGrad,605,19,0,454,10,upper_middle,2,Boomer
+236,238,Grad,57,11,0,371,10,lower,2,Gen X
+237,240,Grad,2088,22,1,430,10,upper_middle,1,Gen X
+238,241,Grad,1009,16,0,739,11,upper_middle,3,Boomer
+239,242,Grad,26,5,0,519,10,lower,2,Gen X
+240,243,Grad,1627,22,1,399,10,upper_middle,2,Millennial
+241,244,Grad,1102,31,0,867,11,upper_middle,3,Boomer
+242,245,PostGrad,17,6,0,210,9,middle,4,Boomer
+243,246,Grad,1690,16,3,591,10,upper_middle,3,Gen X
+244,247,Grad,1390,21,0,722,10,upper_middle,3,Silent
+245,248,PostGrad,2126,20,0,853,11,upper_middle,2,Millennial
+246,249,PostGrad,1531,25,0,794,11,upper_middle,3,Gen X
+247,250,PostGrad,64,7,0,472,10,middle,2,Gen X
+248,251,Grad,26,6,0,431,10,middle,2,Millennial
+249,252,Grad,1112,29,4,636,10,upper,1,Gen X
+250,253,PostGrad,210,11,0,831,11,lower,2,Boomer
+251,254,Grad,1148,26,0,855,11,upper_middle,4,Boomer
+252,255,PostGrad,33,6,0,810,11,middle,2,Gen X
+253,256,PostGrad,1101,19,1,807,11,upper_middle,3,Boomer
+254,257,Grad,322,16,0,801,11,middle,2,Boomer
+255,258,Grad,44,10,0,576,10,lower,3,Boomer
+256,259,PostGrad,17,4,0,389,10,middle,4,Boomer
+257,260,Grad,31,6,1,813,11,lower,2,Gen X
+258,261,PostGrad,845,25,0,589,10,upper_middle,3,Gen X
+259,262,PostGrad,275,15,0,198,9,middle,3,Gen X
+260,263,PostGrad,25,4,0,769,11,middle,3,Gen X
+261,264,PostGrad,275,17,0,697,10,middle,4,Silent
+262,265,PostGrad,90,11,0,658,10,middle,4,Boomer
+263,266,Grad,1495,19,1,189,9,upper_middle,2,Boomer
+264,267,PostGrad,184,11,1,808,11,middle,4,Gen X
+265,268,Grad,981,13,0,561,10,upper_middle,2,Gen X
+266,269,Grad,67,8,0,454,10,lower,3,Gen X
+267,270,Grad,1635,14,0,831,11,upper_middle,1,Silent
+268,271,PostGrad,60,10,0,287,9,middle,2,Millennial
+269,272,PostGrad,231,12,0,331,9,upper_middle,3,Gen X
+270,273,Grad,48,10,0,270,9,lower,4,Boomer
+271,274,Grad,99,9,0,694,10,middle,3,Boomer
+272,275,PostGrad,770,23,0,472,10,upper_middle,3,Boomer
+273,276,Grad,957,23,0,714,10,upper_middle,1,Boomer
+274,277,PostGrad,818,12,0,246,9,upper_middle,2,Gen X
+275,278,PostGrad,925,17,1,639,10,upper_middle,1,Millennial
+276,279,PostGrad,908,22,0,620,10,upper_middle,2,Gen X
+277,280,Undergrad,102,10,0,689,10,lower,3,Gen X
+278,281,Grad,576,16,0,798,11,middle,3,Gen X
+279,282,Grad,317,13,0,853,11,middle,2,Silent
+280,283,PostGrad,461,15,0,306,9,upper_middle,3,Gen X
+281,284,PostGrad,37,7,0,259,9,middle,4,Gen X
+282,285,Grad,70,7,0,538,10,middle,3,Gen X
+283,286,Grad,930,23,0,702,10,upper_middle,2,Silent
+284,287,PostGrad,859,33,0,723,10,middle,4,Boomer
+285,288,Grad,1478,22,0,234,9,upper_middle,1,Boomer
+286,289,PostGrad,390,16,0,567,10,middle,1,Silent
+287,290,PostGrad,52,5,1,546,10,middle,2,Millennial
+288,291,Grad,137,10,0,370,10,middle,3,Gen X
+289,292,Grad,1919,19,1,792,11,upper_middle,2,Gen X
+290,293,Grad,68,9,0,351,9,lower,4,Gen X
+291,294,Grad,25,4,0,660,10,lower,4,Boomer
+292,295,PostGrad,1374,23,2,861,11,middle,3,Silent
+293,296,PostGrad,32,5,0,665,10,middle,2,Millennial
+294,297,PostGrad,100,7,0,718,10,middle,3,Millennial
+295,298,Grad,825,12,0,719,10,upper_middle,1,Millennial
+296,299,PostGrad,916,28,1,290,9,upper_middle,2,Boomer
+297,300,Grad,62,11,0,260,9,middle,3,Boomer
+298,301,PostGrad,728,21,0,446,10,upper_middle,3,Boomer
+299,302,PostGrad,90,7,0,306,9,middle,3,Gen X
+300,303,Grad,273,13,0,263,9,middle,2,Millennial
+301,304,Grad,66,10,0,370,10,lower,3,Millennial
+302,305,PostGrad,1213,23,1,644,10,upper_middle,2,Boomer
+303,306,Grad,107,7,0,835,11,lower,1,Boomer
+304,307,Grad,1157,18,1,302,9,upper_middle,1,Silent
+305,308,PostGrad,546,18,1,478,10,upper_middle,3,Boomer
+306,309,PostGrad,241,11,0,614,10,middle,2,Millennial
+307,310,Grad,53,11,0,348,9,lower,2,Gen X
+308,311,Grad,37,7,0,430,10,lower,5,Boomer
+309,312,Grad,1611,24,2,577,10,middle,2,Millennial
+310,313,PostGrad,1508,23,0,694,10,upper_middle,1,Gen X
+311,314,Grad,235,16,0,380,10,middle,4,Boomer
+312,315,PostGrad,32,7,0,296,9,lower,4,Boomer
+313,316,Grad,102,8,0,521,10,middle,4,Gen X
+314,317,Grad,401,15,0,870,11,upper_middle,2,Millennial
+315,318,Grad,28,6,0,534,10,middle,4,Silent
+316,319,Grad,1052,21,2,496,10,middle,4,Gen X
+317,320,Grad,680,21,0,714,10,upper_middle,3,Gen X
+318,321,Grad,30,4,0,549,10,middle,3,Gen X
+319,322,PostGrad,20,4,0,326,9,middle,3,Boomer
+320,323,PostGrad,1307,23,0,693,10,upper_middle,2,Boomer
+321,324,Grad,630,24,0,720,10,middle,2,Silent
+322,325,Grad,1283,18,0,545,10,upper_middle,2,Boomer
+323,326,PostGrad,65,9,0,548,10,lower,2,Gen X
+324,327,Grad,37,5,0,420,10,lower,3,Millennial
+325,328,PostGrad,38,5,0,602,10,middle,5,Silent
+326,329,PostGrad,160,12,0,687,10,middle,2,Millennial
+327,330,Grad,23,4,0,625,10,lower,2,Millennial
+328,331,PostGrad,71,6,0,477,10,middle,1,Millennial
+329,332,PostGrad,1161,19,0,638,10,upper_middle,3,Boomer
+330,333,PostGrad,59,5,1,721,10,middle,3,Gen X
+331,334,Grad,33,7,0,550,10,lower,3,Millennial
+332,335,Grad,946,22,0,841,11,upper_middle,3,Boomer
+333,336,Grad,1442,22,3,756,11,upper_middle,1,Gen X
+334,337,Grad,62,5,0,780,11,middle,3,Gen X
+335,338,Grad,1674,22,1,669,10,upper_middle,2,Boomer
+336,340,Grad,1538,21,0,874,11,upper_middle,1,Millennial
+337,341,Grad,139,8,0,390,10,middle,1,Millennial
+338,342,PostGrad,1182,20,2,769,11,middle,3,Gen X
+339,343,PostGrad,507,18,0,567,10,upper_middle,3,Silent
+340,344,Undergrad,18,4,1,504,10,lower,3,Gen X
+341,345,Grad,940,16,0,417,10,upper_middle,1,Silent
+342,346,Grad,42,6,0,557,10,middle,4,Boomer
+343,347,Grad,1190,15,0,199,9,upper_middle,1,Gen X
+344,348,Grad,44,8,0,737,11,middle,3,Gen X
+345,349,PostGrad,16,4,1,363,9,middle,3,Gen X
+346,350,Grad,835,26,0,380,10,upper_middle,3,Boomer
+347,351,Grad,1443,22,2,721,10,upper_middle,3,Millennial
+348,352,PostGrad,1029,18,0,430,10,upper_middle,1,Boomer
+349,353,Grad,1188,18,0,796,11,upper_middle,2,Gen X
+350,354,PostGrad,1277,24,0,740,11,upper_middle,2,Gen X
+351,355,Grad,49,7,0,398,10,middle,3,Gen X
+352,356,Grad,99,7,1,600,10,middle,3,Boomer
+353,357,PostGrad,1670,15,0,750,11,upper_middle,2,Gen X
+354,358,PostGrad,900,14,0,499,10,upper_middle,2,Silent
+355,359,PostGrad,425,16,0,450,10,middle,4,Silent
+356,360,Grad,2153,22,1,825,11,upper_middle,2,Boomer
+357,361,PostGrad,636,21,0,285,9,upper_middle,2,Gen X
+358,362,Grad,57,10,0,311,9,lower,4,Gen X
+359,363,PostGrad,25,4,0,769,11,middle,3,Gen X
+360,364,Grad,494,22,0,734,11,middle,4,Boomer
+361,365,Grad,693,19,0,863,11,middle,2,Gen X
+362,366,Grad,1348,26,0,594,10,upper_middle,2,Boomer
+363,367,Grad,51,7,0,656,10,middle,2,Gen X
+364,368,Grad,1932,16,0,775,11,upper_middle,2,Boomer
+365,369,PostGrad,990,16,0,761,11,middle,2,Gen X
+366,370,PostGrad,30,5,0,254,9,middle,3,Millennial
+367,371,Grad,254,16,0,795,11,middle,4,Gen X
+368,372,PostGrad,29,5,1,490,10,lower,2,Gen X
+369,373,Grad,1371,23,1,781,11,upper_middle,2,Boomer
+370,374,PostGrad,73,9,0,558,10,middle,3,Gen X
+371,375,PostGrad,120,11,0,866,11,middle,3,Gen X
+372,376,Grad,81,5,1,654,10,lower,1,Gen X
+373,377,Grad,37,5,0,732,11,middle,2,Millennial
+374,378,PostGrad,1377,20,0,456,10,upper_middle,3,Boomer
+375,379,Grad,51,5,0,566,10,middle,2,Gen X
+376,380,PostGrad,17,4,0,723,10,middle,4,Gen X
+377,381,Grad,22,4,0,413,10,lower,3,Millennial
+378,382,Grad,324,14,0,750,11,lower,1,Boomer
+379,383,PostGrad,211,16,0,862,11,middle,5,Gen X
+380,384,PostGrad,19,4,0,277,9,middle,2,Gen X
+381,385,Grad,41,8,0,596,10,lower,2,Gen X
+382,386,PostGrad,492,17,1,442,10,middle,3,Gen X
+383,387,Grad,1005,26,0,818,11,upper_middle,3,Boomer
+384,388,Grad,114,7,0,854,11,middle,3,Silent
+385,389,PostGrad,1173,19,0,603,10,upper_middle,3,Gen X
+386,390,Grad,1738,19,1,363,9,upper,2,Gen X
+387,391,PostGrad,222,12,0,388,10,upper_middle,3,Gen X
+388,392,Grad,1127,16,0,242,9,upper_middle,1,Millennial
+389,393,PostGrad,209,10,0,623,10,middle,2,Silent
+390,394,PostGrad,787,23,0,310,9,upper_middle,3,Gen X
+391,395,PostGrad,1598,24,0,452,10,upper_middle,2,Millennial
+392,396,Grad,186,12,0,838,11,middle,4,Gen X
+393,397,Grad,47,6,0,853,11,lower,3,Millennial
+394,398,Grad,27,5,0,738,11,lower,2,Millennial
+395,399,PostGrad,96,11,0,783,11,lower,3,Gen X
+396,400,PostGrad,64,10,0,649,10,middle,3,Boomer
+397,401,Grad,1040,23,0,826,11,upper_middle,2,Boomer
+398,402,Grad,163,13,0,504,10,middle,3,Gen X
+399,403,Grad,343,11,0,661,10,middle,2,Boomer
+400,404,PostGrad,446,24,1,436,10,middle,4,Boomer
+401,405,Grad,41,5,0,206,9,middle,4,Boomer
+402,406,PostGrad,70,9,0,854,11,lower,2,Gen X
+403,407,PostGrad,272,14,0,216,9,upper_middle,3,Gen X
+404,408,PostGrad,46,6,0,574,10,middle,3,Gen X
+405,409,Grad,490,19,0,806,11,middle,4,Boomer
+406,410,PostGrad,79,8,0,775,11,lower,2,Millennial
+407,411,Grad,915,17,0,783,11,middle,3,Gen X
+408,412,PostGrad,1485,35,1,642,10,upper_middle,3,Boomer
+409,413,Grad,369,16,0,862,11,middle,2,Millennial
+410,414,Grad,1073,19,0,708,10,upper_middle,3,Boomer
+411,415,PostGrad,1242,19,0,276,9,upper_middle,2,Silent
+412,416,PostGrad,78,9,1,407,10,lower,3,Gen X
+413,417,Grad,1378,21,4,321,9,upper_middle,2,Millennial
+414,418,Grad,1474,26,2,678,10,upper,1,Gen X
+415,419,PostGrad,751,29,0,667,10,middle,4,Gen X
+416,420,PostGrad,48,7,0,240,9,middle,3,Gen X
+417,421,Grad,45,6,0,224,9,middle,3,Millennial
+418,422,PostGrad,10,4,0,210,9,lower,3,Millennial
+419,423,PostGrad,1435,16,2,576,10,upper_middle,2,Gen X
+420,424,PostGrad,2119,22,1,628,10,upper,2,Silent
+421,425,Grad,20,4,0,393,10,middle,5,Silent
+422,426,Grad,1795,27,3,252,9,upper,2,Millennial
+423,427,Grad,1188,19,2,271,9,upper_middle,3,Millennial
+424,428,PostGrad,43,7,0,242,9,lower,3,Millennial
+425,429,Grad,1008,24,0,616,10,upper_middle,3,Gen X
+426,430,PostGrad,1688,16,4,602,10,upper_middle,1,Boomer
+427,431,Grad,684,21,0,794,11,middle,3,Millennial
+428,432,PostGrad,1082,39,0,708,10,upper_middle,4,Boomer
+429,433,Grad,1068,25,0,402,10,upper_middle,3,Boomer
+430,434,Grad,57,7,0,333,9,middle,2,Gen X
+431,435,PostGrad,46,5,0,559,10,middle,3,Boomer
+432,436,Grad,733,23,0,376,10,upper_middle,2,Boomer
+433,437,PostGrad,467,17,0,481,10,middle,2,Silent
+434,438,PostGrad,122,10,0,497,10,middle,3,Gen X
+435,439,PostGrad,36,7,0,693,10,lower,3,Millennial
+436,440,Grad,34,5,0,546,10,lower,3,Millennial
+437,441,PostGrad,156,10,0,377,10,middle,3,Silent
+438,442,Grad,14,4,0,513,10,lower,2,Silent
+439,443,Grad,37,5,0,732,11,middle,2,Millennial
+440,444,PostGrad,34,5,0,290,9,lower,2,Gen X
+441,445,Grad,20,4,0,537,10,lower,1,Boomer
+442,446,PostGrad,192,11,0,449,10,middle,2,Gen X
+443,447,Grad,1379,17,2,368,10,upper_middle,1,Boomer
+444,448,Grad,48,7,0,571,10,lower,3,Gen X
+445,449,PostGrad,428,16,0,375,10,middle,3,Silent
+446,450,Grad,868,27,0,609,10,upper_middle,2,Boomer
+447,451,Grad,1001,27,0,684,10,middle,3,Gen X
+448,452,PostGrad,59,7,0,441,10,middle,2,Gen X
+449,453,PostGrad,431,16,0,396,10,upper_middle,4,Gen X
+450,454,Grad,971,27,0,846,11,upper_middle,3,Gen X
+451,455,Grad,348,19,0,864,11,middle,5,Gen X
+452,456,PostGrad,2059,24,2,838,11,upper,1,Boomer
+453,457,PostGrad,265,14,1,640,10,middle,3,Millennial
+454,458,Grad,270,13,0,221,9,middle,3,Silent
+455,459,PostGrad,1289,19,0,828,11,upper_middle,2,Millennial
+456,460,Grad,893,16,1,365,9,upper_middle,3,Boomer
+457,461,Grad,926,22,0,466,10,upper_middle,1,Silent
+458,462,PostGrad,135,9,0,338,9,middle,2,Boomer
+459,463,Grad,1495,19,1,189,9,upper_middle,2,Boomer
+460,464,Grad,120,9,0,311,9,middle,3,Gen X
+461,465,PostGrad,1288,20,0,304,9,upper_middle,1,Gen X
+462,466,PostGrad,1743,17,2,618,10,upper_middle,2,Boomer
+463,467,Grad,15,4,0,792,11,middle,2,Gen X
+464,468,Grad,542,20,0,301,9,middle,4,Silent
+465,469,PostGrad,890,25,0,869,11,middle,3,Gen X
+466,470,Grad,1388,33,0,645,10,upper_middle,3,Gen X
+467,471,Grad,17,4,0,448,10,middle,3,Gen X
+468,472,PostGrad,906,30,1,880,11,middle,3,Gen X
+469,473,Grad,44,6,0,729,10,middle,4,Gen X
+470,474,Grad,25,5,0,228,9,lower,2,Millennial
+471,475,Grad,973,26,0,682,10,upper_middle,3,Boomer
+472,476,PostGrad,31,6,0,237,9,middle,3,Gen X
+473,477,PostGrad,518,17,0,223,9,middle,3,Gen X
+474,478,PostGrad,530,19,0,800,11,upper_middle,3,Gen X
+475,479,Grad,506,21,0,792,11,middle,3,Gen X
+476,480,PostGrad,70,6,0,367,10,middle,3,Gen X
+477,481,PostGrad,54,6,0,508,10,middle,2,Gen X
+478,482,Grad,296,12,1,865,11,middle,2,Gen X
+479,483,Grad,266,15,0,428,10,middle,3,Gen X
+480,484,PostGrad,747,19,0,813,11,upper_middle,2,Boomer
+481,485,PostGrad,895,29,0,839,11,upper_middle,1,Boomer
+482,486,PostGrad,1053,17,0,413,10,upper_middle,3,Gen X
+483,487,Grad,735,21,0,554,10,upper_middle,3,Gen X
+484,488,Grad,20,5,0,340,9,lower,3,Gen X
+485,489,PostGrad,205,10,0,795,11,lower,1,Silent
+486,490,PostGrad,2092,21,0,829,11,upper_middle,3,Boomer
+487,491,Grad,309,14,0,759,11,middle,2,Gen X
+488,492,Grad,1722,22,1,678,10,upper_middle,2,Boomer
+489,493,PostGrad,900,15,0,719,10,upper_middle,2,Boomer
+490,494,PostGrad,682,20,1,400,10,middle,1,Silent
+491,495,PostGrad,663,22,0,628,10,upper_middle,2,Boomer
+492,496,Grad,43,6,0,271,9,middle,2,Gen X
+493,497,PostGrad,1816,18,0,620,10,upper_middle,3,Gen X
+494,498,PostGrad,976,27,0,224,9,upper_middle,3,Silent
+495,499,Grad,746,21,0,638,10,upper_middle,2,Silent
+496,500,Grad,64,6,0,878,11,lower,4,Silent
+497,501,PostGrad,32,5,0,412,10,middle,3,Boomer
+498,502,Undergrad,263,9,0,733,11,lower,2,Millennial
+499,503,PostGrad,1445,21,0,860,11,upper_middle,3,Millennial
+500,504,PostGrad,46,5,0,559,10,middle,3,Boomer
+501,505,Grad,1210,28,0,785,11,middle,1,Silent
+502,506,Grad,945,24,0,395,10,upper_middle,3,Gen X
+503,507,Grad,1157,22,0,531,10,upper_middle,1,Millennial
+504,508,Grad,137,8,0,559,10,middle,2,Millennial
+505,509,Grad,730,25,0,746,11,upper_middle,2,Boomer
+506,510,PostGrad,216,12,1,586,10,middle,3,Gen X
+507,511,Grad,943,23,0,644,10,upper_middle,2,Gen X
+508,512,Grad,347,16,1,438,10,middle,4,Boomer
+509,513,PostGrad,1924,19,1,290,9,upper,2,Boomer
+510,514,PostGrad,397,17,0,600,10,middle,3,Silent
+511,515,PostGrad,2089,22,0,627,10,upper_middle,1,Gen X
+512,516,Grad,138,11,0,697,10,middle,4,Boomer
+513,517,Grad,42,5,0,550,10,lower,2,Millennial
+514,518,Grad,777,17,0,496,10,upper_middle,2,Boomer
+515,519,PostGrad,1902,20,2,306,9,upper_middle,2,Silent
+516,520,Grad,52,7,0,339,9,middle,3,Boomer
+517,521,PostGrad,1651,13,1,306,9,upper_middle,1,Millennial
+518,522,Grad,358,13,0,503,10,middle,2,Millennial
+519,523,Grad,1727,16,2,823,11,upper_middle,2,Silent
+520,524,Grad,210,10,0,845,11,lower,3,Millennial
+521,525,Grad,42,5,0,758,11,middle,3,Millennial
+522,526,PostGrad,1291,20,0,400,10,upper_middle,2,Boomer
+523,527,PostGrad,442,15,0,207,9,middle,2,Gen X
+524,528,Grad,1895,17,0,872,11,upper_middle,1,Boomer
+525,529,PostGrad,411,19,0,424,10,middle,4,Boomer
+526,530,PostGrad,521,19,0,685,10,middle,2,Gen X
+527,531,Grad,1168,17,0,470,10,upper_middle,2,Gen X
+528,532,PostGrad,493,23,1,197,9,upper_middle,4,Gen X
+529,533,Grad,260,12,0,617,10,upper_middle,4,Boomer
+530,534,Grad,46,7,0,563,10,lower,2,Millennial
+531,535,PostGrad,319,16,0,630,10,middle,3,Silent
+532,536,Grad,96,7,0,348,9,middle,3,Boomer
+533,537,Grad,1062,16,1,320,9,upper_middle,1,Boomer
+534,538,PostGrad,232,12,0,511,10,middle,3,Silent
+535,539,PostGrad,76,9,0,374,10,lower,2,Gen X
+536,540,PostGrad,54,9,0,420,10,lower,3,Gen X
+537,541,Grad,201,11,0,878,11,middle,2,Gen X
+538,542,PostGrad,406,14,0,764,11,middle,2,Millennial
+539,543,PostGrad,1919,20,2,512,10,upper_middle,2,Millennial
+540,544,Grad,662,20,0,576,10,middle,3,Gen X
+541,545,PostGrad,41,8,0,299,9,lower,3,Millennial
+542,546,Grad,1600,14,0,359,9,upper_middle,1,Boomer
+543,547,Grad,134,8,0,394,10,middle,3,Gen X
+544,548,Grad,69,10,1,340,9,lower,4,Gen X
+545,549,PostGrad,21,6,0,278,9,lower,4,Gen X
+546,550,PostGrad,54,7,0,276,9,middle,3,Boomer
+547,551,Grad,91,8,1,268,9,lower,2,Millennial
+548,552,PostGrad,526,18,0,328,9,upper_middle,2,Gen X
+549,553,Grad,162,8,0,623,10,lower,2,Boomer
+550,554,PostGrad,1008,25,0,421,10,upper_middle,2,Silent
+551,555,Grad,240,16,0,841,11,middle,4,Silent
+552,556,PostGrad,795,21,0,671,10,middle,2,Gen X
+553,557,Grad,1772,19,1,636,10,upper_middle,2,Millennial
+554,558,PostGrad,64,8,0,516,10,lower,2,Gen X
+555,559,Grad,1957,20,4,589,10,upper,3,Boomer
+556,560,Grad,78,7,0,479,10,middle,3,Gen X
+557,561,Grad,1572,19,0,564,10,upper_middle,1,Gen X
+558,562,PostGrad,795,26,0,555,10,upper_middle,3,Gen X
+559,563,PostGrad,889,26,0,351,9,upper_middle,3,Gen X
+560,564,PostGrad,331,15,0,422,10,middle,2,Boomer
+561,565,PostGrad,265,12,0,208,9,middle,3,Silent
+562,566,Grad,1065,19,0,757,11,upper_middle,2,Boomer
+563,567,PostGrad,11,4,0,481,10,lower,4,Silent
+564,568,Grad,21,4,0,545,10,middle,2,Gen X
+565,569,Grad,17,4,0,755,11,middle,4,Gen X
+566,570,Grad,369,16,0,841,11,middle,3,Gen X
+567,571,PostGrad,38,6,0,339,9,middle,4,Gen X
+568,572,PostGrad,177,11,0,475,10,middle,2,Gen X
+569,573,PostGrad,279,12,0,518,10,upper_middle,3,Gen X
+570,574,PostGrad,62,7,0,456,10,middle,3,Gen X
+571,575,PostGrad,1230,21,3,700,10,upper_middle,3,Gen X
+572,576,Grad,182,11,0,275,9,middle,4,Gen X
+573,577,Grad,49,10,0,496,10,lower,4,Gen X
+574,578,PostGrad,75,8,0,472,10,middle,4,Boomer
+575,579,PostGrad,227,16,0,541,10,middle,4,Boomer
+576,580,PostGrad,215,15,1,782,11,middle,4,Gen X
+577,581,Grad,444,20,0,654,10,middle,3,Silent
+578,582,PostGrad,47,5,0,438,10,middle,4,Boomer
+579,583,PostGrad,143,7,0,626,10,lower,2,Silent
+580,584,Grad,55,7,0,273,9,middle,3,Millennial
+581,585,PostGrad,63,11,0,258,9,lower,4,Gen X
+582,586,Grad,1867,22,3,830,11,upper_middle,1,Boomer
+583,587,PostGrad,611,20,0,474,10,upper_middle,3,Boomer
+584,588,Grad,473,18,1,229,9,middle,3,Boomer
+585,589,Grad,55,6,0,499,10,lower,2,Boomer
+586,590,PostGrad,81,7,0,811,11,middle,2,Millennial
+587,591,PostGrad,2086,21,2,750,11,upper,2,Gen X
+588,592,PostGrad,1478,20,0,417,10,upper_middle,1,Boomer
+589,593,Grad,49,5,0,336,9,middle,3,Gen X
+590,594,PostGrad,382,15,0,477,10,upper_middle,2,Gen X
+591,595,PostGrad,69,9,0,469,10,lower,3,Gen X
+592,596,Grad,67,6,0,797,11,lower,2,Gen X
+593,597,PostGrad,30,6,0,439,10,middle,4,Gen X
+594,598,PostGrad,63,9,0,576,10,lower,3,Gen X
+595,599,Grad,79,10,0,867,11,middle,3,Gen X
+596,600,Grad,42,5,0,679,10,middle,2,Boomer
+597,601,Grad,819,23,0,853,11,upper_middle,3,Boomer
+598,602,Grad,1151,17,0,471,10,upper_middle,1,Boomer
+599,603,PostGrad,594,20,0,753,11,upper_middle,4,Silent
+600,604,PostGrad,129,11,0,705,10,middle,4,Boomer
+601,605,PostGrad,213,12,0,733,11,lower,2,Millennial
+602,606,Grad,67,7,0,324,9,middle,2,Gen X
+603,607,Grad,28,5,0,661,10,lower,4,Boomer
+604,608,Undergrad,45,6,0,797,11,middle,3,Gen X
+605,609,Grad,1193,18,1,239,9,upper_middle,2,Boomer
+606,610,PostGrad,268,12,0,500,10,lower,1,Gen X
+607,611,PostGrad,266,12,0,532,10,middle,1,Silent
+608,612,Undergrad,37,5,0,751,11,lower,3,Gen X
+609,613,Grad,37,7,0,430,10,lower,5,Boomer
+610,614,PostGrad,882,25,0,783,11,middle,1,Gen X
+611,615,Grad,373,18,0,524,10,middle,4,Gen X
+612,616,PostGrad,35,6,0,605,10,middle,4,Boomer
+613,618,Grad,42,5,0,654,10,middle,3,Gen X
+614,619,PostGrad,326,17,0,867,11,middle,3,Boomer
+615,620,PostGrad,404,17,0,539,10,middle,3,Boomer
+616,621,Grad,95,6,0,536,10,middle,1,Gen X
+617,622,Grad,939,14,2,297,9,upper_middle,1,Silent
+618,623,PostGrad,33,5,0,369,10,middle,2,Gen X
+619,624,PostGrad,981,21,1,577,10,upper_middle,2,Boomer
+620,625,Grad,36,7,0,711,10,lower,3,Gen X
+621,626,Grad,1237,20,0,577,10,upper_middle,2,Gen X
+622,627,Grad,1825,34,0,832,11,upper_middle,3,Boomer
+623,628,PostGrad,103,9,0,847,11,middle,3,Gen X
+624,629,Grad,191,12,0,744,11,lower,2,Gen X
+625,630,PostGrad,1586,25,0,408,10,upper_middle,3,Gen X
+626,631,PostGrad,963,14,0,202,9,upper_middle,2,Boomer
+627,632,PostGrad,889,26,0,351,9,upper_middle,3,Gen X
+628,633,PostGrad,93,7,1,320,9,middle,1,Boomer
+629,634,Grad,1587,21,0,623,10,upper_middle,1,Gen X
+630,635,Grad,16,4,0,297,9,middle,4,Boomer
+631,636,Grad,1375,32,0,576,10,upper_middle,1,Silent
+632,637,Grad,393,14,0,723,10,middle,3,Boomer
+633,638,PostGrad,1477,26,0,825,11,upper_middle,2,Silent
+634,639,Grad,1179,18,1,421,10,upper_middle,3,Gen X
+635,640,Grad,1005,26,0,818,11,upper_middle,3,Boomer
+636,641,PostGrad,1348,21,0,233,9,upper_middle,2,Silent
+637,642,PostGrad,1307,23,0,732,11,upper_middle,2,Boomer
+638,643,Grad,486,15,1,604,10,middle,2,Boomer
+639,644,PostGrad,2252,13,2,662,10,upper_middle,2,Silent
+640,645,PostGrad,235,17,0,501,10,middle,4,Gen X
+641,646,Grad,1724,30,2,710,10,upper,2,Gen X
+642,647,PostGrad,235,11,0,384,10,middle,2,Gen X
+643,648,PostGrad,1092,28,0,223,9,upper_middle,3,Gen X
+644,649,Grad,599,17,0,472,10,upper_middle,3,Boomer
+645,650,PostGrad,2008,19,1,318,9,upper,1,Boomer
+646,651,Grad,48,6,0,857,11,lower,3,Millennial
+647,652,Grad,1174,32,0,872,11,upper_middle,3,Gen X
+648,653,PostGrad,67,7,0,263,9,middle,3,Silent
+649,654,Grad,365,15,0,881,11,middle,2,Boomer
+650,656,Grad,165,10,0,362,9,upper_middle,3,Silent
+651,657,PostGrad,210,11,0,831,11,lower,2,Boomer
+652,658,PostGrad,1095,26,0,488,10,upper_middle,3,Silent
+653,659,PostGrad,223,12,1,437,10,middle,4,Boomer
+654,660,Grad,597,22,0,755,11,middle,3,Boomer
+655,661,Grad,22,4,0,413,10,lower,3,Millennial
+656,662,Grad,1064,24,0,372,10,upper_middle,2,Gen X
+657,663,Undergrad,74,6,0,846,11,lower,2,Gen X
+658,664,PostGrad,26,5,0,730,10,lower,2,Boomer
+659,665,Grad,60,5,0,734,11,lower,2,Boomer
+660,666,PostGrad,20,4,0,595,10,middle,3,Gen X
+661,667,Undergrad,59,7,0,463,10,lower,2,Millennial
+662,668,PostGrad,34,5,0,602,10,lower,3,Gen X
+663,669,PostGrad,198,12,0,420,10,middle,4,Gen X
+664,670,PostGrad,1048,28,0,521,10,upper_middle,3,Boomer
+665,671,PostGrad,574,21,0,419,10,upper_middle,3,Boomer
+666,672,Grad,1029,17,0,841,11,upper_middle,2,Gen X
+667,673,Grad,670,20,0,381,10,upper_middle,3,Gen X
+668,674,PostGrad,990,16,0,761,11,middle,2,Gen X
+669,675,Grad,11,4,0,224,9,lower,4,Gen X
+670,676,PostGrad,1241,21,1,793,11,upper_middle,3,Boomer
+671,677,Grad,576,17,0,364,9,upper_middle,1,Gen X
+672,678,PostGrad,172,12,1,564,10,middle,3,Millennial
+673,679,PostGrad,664,20,0,374,10,upper_middle,1,Gen X
+674,680,Grad,928,23,0,440,10,upper_middle,2,Boomer
+675,681,Grad,2074,30,0,854,11,upper_middle,1,Boomer
+676,682,PostGrad,467,15,0,525,10,middle,2,Millennial
+677,683,Grad,257,12,0,434,10,middle,3,Boomer
+678,684,Grad,1146,17,0,378,10,upper_middle,2,Boomer
+679,685,PostGrad,689,20,0,665,10,upper_middle,2,Gen X
+680,686,PostGrad,2114,22,0,841,11,upper,1,Gen X
+681,688,PostGrad,1346,21,2,230,9,upper_middle,2,Millennial
+682,689,PostGrad,1044,15,0,458,10,upper_middle,2,Gen X
+683,690,PostGrad,493,22,1,819,11,middle,2,Boomer
+684,691,Grad,957,13,0,494,10,upper_middle,1,Gen X
+685,692,PostGrad,270,12,0,538,10,middle,3,Boomer
+686,693,Undergrad,29,5,0,425,10,lower,2,Silent
+687,694,PostGrad,121,9,0,582,10,middle,3,Silent
+688,695,PostGrad,126,8,0,524,10,upper_middle,4,Boomer
+689,696,Grad,23,4,0,281,9,middle,1,Millennial
+690,697,PostGrad,57,8,0,633,10,lower,3,Silent
+691,698,Grad,636,20,0,424,10,middle,1,Boomer
+692,699,Grad,1004,28,1,267,9,upper_middle,2,Boomer
+693,700,Grad,734,20,0,471,10,upper_middle,2,Gen X
+694,701,Grad,614,20,0,295,9,upper_middle,4,Gen X
+695,702,Grad,1453,21,1,324,9,upper_middle,2,Gen X
+696,703,PostGrad,1621,15,3,247,9,upper,1,Millennial
+697,704,PostGrad,187,12,0,371,10,middle,2,Gen X
+698,705,Grad,1443,22,2,721,10,upper_middle,3,Millennial
+699,706,PostGrad,57,6,0,188,9,middle,2,Gen X
+700,707,Grad,637,20,0,631,10,middle,2,Silent
+701,708,PostGrad,948,14,1,406,10,upper_middle,3,Silent
+702,709,PostGrad,59,5,1,721,10,middle,3,Gen X
+703,710,Grad,18,4,0,538,10,lower,3,Millennial
+704,711,PostGrad,903,26,0,802,11,middle,2,Boomer
+705,712,Grad,112,8,0,680,10,middle,2,Gen X
+706,713,Grad,596,20,0,597,10,upper_middle,2,Silent
+707,714,Grad,233,13,0,512,10,middle,3,Millennial
+708,715,PostGrad,1511,11,0,755,11,upper_middle,2,Gen X
+709,716,PostGrad,1152,17,1,830,11,upper,1,Boomer
+710,717,Grad,48,7,0,689,10,lower,3,Gen X
+711,718,Grad,1185,31,0,641,10,upper_middle,2,Gen X
+712,719,Grad,21,4,0,278,9,middle,3,Boomer
+713,720,PostGrad,965,16,0,743,11,upper_middle,3,Boomer
+714,721,Grad,869,21,0,609,10,upper_middle,2,Boomer
+715,722,PostGrad,16,6,0,223,9,lower,3,Millennial
+716,723,Grad,1947,16,0,687,10,upper_middle,2,Boomer
+717,724,Grad,71,12,1,883,11,lower,3,Gen X
+718,725,Grad,65,6,0,207,9,middle,3,Boomer
+719,726,Grad,1380,24,1,404,10,upper_middle,2,Boomer
+720,727,PostGrad,1027,23,0,341,9,upper_middle,1,Gen X
+721,728,PostGrad,411,21,0,447,10,middle,5,Boomer
+722,729,Grad,836,26,1,626,10,upper,2,Millennial
+723,730,PostGrad,11,4,0,461,10,middle,3,Silent
+724,731,PostGrad,480,23,0,877,11,middle,4,Silent
+725,732,Grad,606,23,0,568,10,upper_middle,4,Gen X
+726,733,PostGrad,284,16,0,442,10,middle,4,Silent
+727,734,Grad,1472,14,3,449,10,upper,3,Gen X
+728,735,Grad,1677,26,3,247,9,upper_middle,2,Silent
+729,736,Grad,1335,19,0,643,10,upper_middle,3,Gen X
+730,737,PostGrad,334,13,0,212,9,upper_middle,3,Silent
+731,738,Undergrad,18,4,0,654,10,lower,3,Millennial
+732,739,Grad,1338,20,0,875,11,upper_middle,3,Gen X
+733,740,PostGrad,1099,30,0,649,10,upper_middle,2,Silent
+734,741,PostGrad,97,8,0,666,10,middle,4,Boomer
+735,742,PostGrad,63,9,0,365,9,middle,4,Silent
+736,743,PostGrad,109,9,0,518,10,middle,3,Gen X
+737,744,Grad,902,21,1,341,9,upper_middle,2,Boomer
+738,745,Grad,1574,20,1,599,10,upper_middle,2,Silent
+739,746,PostGrad,38,9,0,388,10,lower,3,Gen X
+740,747,Grad,960,24,0,298,9,upper_middle,1,Millennial
+741,748,Grad,28,4,1,473,10,middle,2,Gen X
+742,749,PostGrad,1215,28,1,337,9,upper_middle,2,Boomer
+743,750,PostGrad,1497,22,0,366,10,upper_middle,2,Gen X
+744,751,PostGrad,449,17,0,455,10,middle,3,Boomer
+745,752,Grad,1064,24,0,372,10,upper_middle,2,Gen X
+746,753,Grad,1757,25,3,672,10,upper_middle,2,Gen X
+747,754,Grad,1440,21,0,244,9,upper_middle,2,Gen X
+748,755,PostGrad,1006,24,0,691,10,upper_middle,2,Gen X
+749,756,PostGrad,1226,23,0,873,11,upper_middle,3,Gen X
+750,757,Grad,1171,20,0,469,10,upper_middle,3,Boomer
+751,758,PostGrad,92,8,0,657,10,middle,3,Gen X
+752,759,PostGrad,99,8,0,270,9,middle,3,Boomer
+753,760,PostGrad,66,8,0,455,10,middle,3,Gen X
+754,761,Grad,564,19,0,252,9,upper_middle,3,Boomer
+755,762,PostGrad,1427,21,0,430,10,upper_middle,2,Millennial
+756,763,PostGrad,86,6,1,601,10,middle,2,Gen X
+757,764,Grad,833,19,0,224,9,upper_middle,1,Silent
+758,765,Grad,242,12,0,614,10,middle,3,Boomer
+759,766,Grad,1869,17,0,842,11,upper_middle,2,Gen X
+760,767,Grad,1364,29,0,848,11,upper_middle,2,Millennial
+761,768,PostGrad,183,8,0,487,10,middle,3,Boomer
+762,769,PostGrad,450,18,0,585,10,upper_middle,3,Boomer
+763,770,Grad,758,21,0,547,10,upper_middle,3,Gen X
+764,771,PostGrad,1507,20,0,385,10,upper_middle,2,Silent
+765,772,Grad,654,25,0,617,10,middle,3,Boomer
+766,773,Grad,81,9,0,628,10,middle,4,Gen X
+767,774,PostGrad,137,1,0,754,11,lower,3,Boomer
+768,775,Grad,16,4,0,666,10,middle,4,Silent
+769,776,PostGrad,93,8,0,489,10,middle,2,Boomer
+770,777,PostGrad,1158,18,0,340,9,upper_middle,2,Boomer
+771,778,PostGrad,43,6,0,379,10,middle,3,Boomer
+772,779,Grad,1525,22,0,476,10,upper_middle,2,Gen X
+773,780,PostGrad,1230,19,0,271,9,upper_middle,1,Gen X
+774,781,Grad,29,6,0,262,9,middle,4,Gen X
+775,782,Grad,25,5,0,235,9,lower,2,Gen X
+776,783,Grad,24,4,0,288,9,middle,3,Gen X
+777,784,Grad,38,5,0,562,10,middle,3,Gen X
+778,785,Undergrad,57,7,0,794,11,lower,3,Millennial
+779,786,PostGrad,47,12,0,320,9,lower,4,Boomer
+780,787,PostGrad,813,24,1,729,10,middle,2,Gen X
+781,788,PostGrad,629,22,1,217,9,middle,3,Gen X
+782,789,Grad,377,17,0,845,11,middle,2,Gen X
+783,790,PostGrad,1612,14,0,716,10,upper_middle,2,Silent
+784,791,PostGrad,729,17,3,785,11,upper_middle,2,Boomer
+785,792,Grad,50,6,1,531,10,lower,1,Silent
+786,793,Grad,270,15,0,429,10,middle,4,Gen X
+787,794,Grad,177,9,0,636,10,middle,2,Boomer
+788,795,PostGrad,315,13,1,711,10,middle,1,Boomer
+789,796,PostGrad,767,23,0,187,9,upper_middle,3,Boomer
+790,797,PostGrad,1071,26,0,800,11,upper_middle,2,Boomer
+791,798,Grad,1580,24,0,670,10,upper_middle,2,Gen X
+792,799,Grad,60,10,0,383,10,lower,3,Gen X
+793,800,PostGrad,573,21,0,384,10,upper_middle,3,Gen X
+794,801,Grad,41,5,0,646,10,middle,3,Boomer
+795,802,Grad,170,10,0,712,10,middle,4,Silent
+796,803,PostGrad,1167,28,0,422,10,upper_middle,1,Silent
+797,804,Grad,1526,25,3,635,10,middle,2,Boomer
+798,805,PostGrad,458,21,0,423,10,middle,4,Gen X
+799,806,PostGrad,63,6,0,284,9,middle,3,Gen X
+800,807,Grad,405,17,0,437,10,middle,3,Boomer
+801,808,Grad,1027,20,1,650,10,upper_middle,4,Gen X
+802,809,Grad,1478,22,0,635,10,upper_middle,2,Gen X
+803,810,Grad,72,5,0,442,10,lower,2,Gen X
+804,811,Grad,48,7,0,621,10,lower,2,Gen X
+805,812,Grad,726,16,0,215,9,upper_middle,1,Gen X
+806,813,PostGrad,860,27,0,696,10,middle,3,Boomer
+807,814,PostGrad,1497,22,0,404,10,upper,2,Millennial
+808,815,PostGrad,495,18,0,234,9,upper_middle,3,Gen X
+809,816,Grad,20,4,0,295,9,middle,4,Gen X
+810,817,Grad,570,19,0,768,11,lower,1,Boomer
+811,818,Grad,769,21,0,278,9,upper_middle,3,Gen X
+812,819,PostGrad,55,7,0,487,10,lower,3,Gen X
+813,820,PostGrad,1808,18,2,606,10,upper_middle,1,Gen X
+814,821,Grad,55,7,0,511,10,lower,3,Gen X
+815,822,Grad,577,18,1,200,9,middle,1,Boomer
+816,823,Grad,162,8,0,623,10,lower,2,Boomer
+817,824,Grad,1957,20,4,589,10,upper,3,Boomer
+818,825,PostGrad,1576,24,0,625,10,upper_middle,2,Boomer
+819,826,Grad,1616,17,2,604,10,upper,5,Boomer
+820,827,Grad,36,6,0,719,10,middle,4,Boomer
+821,828,PostGrad,1482,22,0,600,10,upper_middle,2,Boomer
+822,829,Grad,22,5,0,306,9,lower,3,Millennial
+823,830,PostGrad,63,6,0,405,10,middle,3,Gen X
+824,831,Grad,680,18,0,843,11,middle,1,Millennial
+825,832,PostGrad,542,20,0,606,10,middle,4,Boomer
+826,833,PostGrad,50,7,0,456,10,lower,3,Gen X
+827,834,Grad,39,6,0,686,10,middle,4,Boomer
+828,835,Grad,1043,28,0,643,10,upper_middle,3,Boomer
+829,836,PostGrad,385,14,0,616,10,middle,2,Gen X
+830,837,Grad,1633,27,0,830,11,upper_middle,1,Gen X
+831,838,PostGrad,46,5,0,548,10,middle,2,Gen X
+832,839,Grad,761,20,1,286,9,middle,2,Gen X
+833,840,Grad,76,9,0,514,10,middle,4,Silent
+834,841,Grad,290,14,0,763,11,middle,3,Gen X
+835,842,Grad,89,11,0,234,9,middle,2,Millennial
+836,843,Grad,70,11,0,782,11,lower,3,Gen X
+837,844,PostGrad,1066,17,0,523,10,upper_middle,2,Boomer
+838,845,Grad,2009,19,3,353,9,upper_middle,2,Gen X
+839,846,PostGrad,1345,19,0,824,11,upper_middle,1,Millennial
+840,847,PostGrad,764,23,0,738,11,middle,2,Boomer
+841,848,Grad,195,11,0,435,10,middle,2,Boomer
+842,849,Grad,53,11,0,601,10,lower,4,Gen X
+843,850,Grad,368,13,0,567,10,middle,2,Gen X
+844,851,PostGrad,544,20,0,355,9,upper_middle,3,Boomer
+845,852,PostGrad,1853,25,2,786,11,upper_middle,2,Boomer
+846,853,PostGrad,35,6,1,220,9,middle,4,Boomer
+847,854,PostGrad,446,18,2,290,9,middle,3,Gen X
+848,855,Grad,1180,31,0,640,10,upper_middle,2,Gen X
+849,856,PostGrad,41,5,0,303,9,middle,3,Gen X
+850,857,Grad,727,22,0,681,10,middle,4,Millennial
+851,858,Grad,40,6,0,819,11,middle,4,Boomer
+852,859,PostGrad,1062,26,1,606,10,upper_middle,2,Millennial
+853,860,Grad,40,7,0,340,9,lower,3,Gen X
+854,861,PostGrad,292,17,0,320,9,middle,4,Gen X
+855,862,Grad,15,4,0,722,10,lower,2,Millennial
+856,863,PostGrad,341,17,0,819,11,middle,3,Millennial
+857,864,PostGrad,369,13,0,380,10,middle,2,Gen X
+858,865,PostGrad,401,17,0,569,10,upper_middle,3,Gen X
+859,866,PostGrad,393,17,0,646,10,middle,2,Boomer
+860,867,PostGrad,10,4,0,464,10,lower,3,Millennial
+861,868,Grad,486,16,0,605,10,middle,3,Gen X
+862,869,Grad,69,7,0,806,11,middle,3,Gen X
+863,870,PostGrad,1727,17,2,460,10,upper_middle,2,Millennial
+864,871,Grad,995,16,1,360,9,upper_middle,2,Boomer
+865,872,Grad,45,10,0,204,9,lower,3,Gen X
+866,873,PostGrad,182,12,0,272,9,middle,3,Gen X
+867,874,PostGrad,989,23,0,452,10,upper_middle,3,Gen X
+868,875,Grad,1677,18,3,471,10,upper_middle,2,Silent
+869,876,PostGrad,595,23,0,550,10,middle,3,Gen X
+870,877,Grad,156,9,0,686,10,middle,3,Millennial
+871,878,PostGrad,1226,28,0,271,9,upper,1,Boomer
+872,879,PostGrad,128,11,0,714,10,lower,3,Gen X
+873,880,Grad,86,9,1,325,9,lower,2,Gen X
+874,881,Grad,68,7,0,807,11,middle,3,Gen X
+875,882,Grad,16,4,0,527,10,middle,3,Gen X
+876,883,PostGrad,55,7,0,196,9,middle,4,Gen X
+877,884,PostGrad,2114,22,0,841,11,upper,1,Gen X
+878,885,PostGrad,2018,19,0,548,10,upper_middle,2,Gen X
+879,886,PostGrad,263,15,0,766,11,middle,4,Silent
+880,887,Grad,55,7,0,386,10,middle,4,Boomer
+881,888,Grad,564,24,0,640,10,middle,4,Boomer
+882,889,PostGrad,1281,20,0,381,10,upper_middle,1,Gen X
+883,890,Grad,83,7,1,691,10,middle,3,Gen X
+884,891,PostGrad,353,18,0,845,11,middle,3,Boomer
+885,892,Grad,1003,25,0,352,9,upper_middle,2,Millennial
+886,893,Undergrad,14,4,0,246,9,lower,2,Millennial
+887,894,PostGrad,902,24,1,699,10,middle,1,Silent
+888,895,PostGrad,1139,25,0,750,11,middle,2,Gen X
+889,896,Grad,797,20,0,512,10,upper_middle,3,Boomer
+890,897,Grad,1638,25,0,343,9,upper_middle,2,Boomer
+891,898,PostGrad,401,17,0,508,10,middle,3,Gen X
+892,899,Grad,84,11,0,436,10,lower,2,Millennial
+893,900,Grad,928,18,0,694,10,upper_middle,2,Boomer
+894,901,Grad,203,11,0,503,10,middle,2,Gen X
+895,902,Grad,858,16,0,536,10,upper_middle,2,Boomer
+896,903,Grad,409,13,0,393,10,middle,2,Gen X
+897,904,Grad,282,16,0,648,10,upper_middle,5,Gen X
+898,905,Grad,1423,18,0,267,9,upper_middle,1,Gen X
+899,906,Grad,1449,18,1,406,10,upper,1,Boomer
+900,907,Grad,28,4,0,395,10,middle,2,Gen X
+901,908,Grad,67,6,0,362,9,middle,3,Gen X
+902,909,PostGrad,199,10,0,297,9,middle,2,Millennial
+903,910,PostGrad,1453,22,0,551,10,upper_middle,1,Boomer
+904,911,Grad,1253,19,0,420,10,upper_middle,2,Millennial
+905,912,PostGrad,1198,31,0,706,10,middle,2,Boomer
+906,913,PostGrad,178,10,0,536,10,middle,3,Gen X
+907,914,Grad,1990,18,1,759,11,upper,1,Millennial
+908,915,Grad,976,14,0,600,10,upper_middle,2,Boomer
+909,916,PostGrad,1001,15,0,371,10,upper_middle,2,Boomer
+910,917,PostGrad,1919,20,2,512,10,upper_middle,2,Millennial
+911,918,PostGrad,350,14,0,410,10,middle,2,Boomer
+912,919,PostGrad,1650,25,1,593,10,upper_middle,1,Boomer
+913,920,PostGrad,46,5,2,263,9,middle,4,Boomer
+914,921,Grad,1228,19,0,624,10,upper_middle,1,Millennial
+915,922,PostGrad,95,7,0,707,10,middle,2,Gen X
+916,923,PostGrad,62,9,0,242,9,middle,4,Silent
+917,924,Grad,1761,26,1,228,9,upper_middle,3,Millennial
+918,925,PostGrad,467,16,0,853,11,lower,2,Gen X
+919,926,Grad,1149,19,1,325,9,upper_middle,2,Gen X
+920,927,PostGrad,2052,19,1,367,10,upper_middle,1,Millennial
+921,928,Grad,1127,16,0,242,9,upper_middle,1,Millennial
+922,929,PostGrad,1416,21,0,410,10,upper_middle,3,Gen X
+923,930,PostGrad,1113,20,0,268,9,upper_middle,2,Gen X
+924,931,Grad,125,7,0,325,9,middle,2,Millennial
+925,932,PostGrad,966,25,1,872,11,upper_middle,2,Silent
+926,933,Undergrad,32,5,0,740,11,lower,3,Millennial
+927,934,Grad,833,19,0,224,9,upper_middle,1,Silent
+928,935,PostGrad,46,8,0,221,9,middle,3,Gen X
+929,936,Grad,960,17,0,434,10,upper_middle,2,Gen X
+930,937,PostGrad,1829,30,1,589,10,upper_middle,3,Gen X
+931,938,Grad,779,26,0,536,10,middle,2,Gen X
+932,939,PostGrad,811,23,0,510,10,upper_middle,2,Gen X
+933,940,PostGrad,1120,22,0,570,10,upper_middle,3,Silent
+934,941,PostGrad,725,20,0,530,10,middle,3,Boomer
+935,942,Grad,1187,12,1,583,10,upper_middle,1,Millennial
+936,943,Grad,2302,18,3,668,10,upper,2,Silent
+937,944,Undergrad,66,9,0,740,11,lower,1,Millennial
+938,945,PostGrad,1250,19,2,822,11,middle,2,Millennial
+939,946,PostGrad,683,20,0,319,9,upper_middle,3,Millennial
+940,947,Grad,305,13,0,458,10,upper_middle,3,Gen X
+941,948,Grad,50,6,0,391,10,middle,3,Gen X
+942,949,PostGrad,995,16,0,822,11,upper_middle,2,Gen X
+943,950,PostGrad,41,6,0,236,9,lower,3,Gen X
+944,951,PostGrad,77,9,1,238,9,middle,4,Gen X
+945,952,PostGrad,171,12,0,702,10,middle,3,Gen X
+946,953,PostGrad,131,7,0,600,10,middle,3,Gen X
+947,954,PostGrad,54,5,0,235,9,middle,4,Gen X
+948,955,PostGrad,53,12,0,690,10,lower,4,Gen X
+949,956,Grad,475,16,0,761,11,upper_middle,3,Boomer
+950,957,Grad,694,22,0,867,11,middle,2,Silent
+951,958,Grad,96,8,0,239,9,upper_middle,4,Gen X
+952,959,PostGrad,361,16,0,614,10,middle,2,Boomer
+953,960,Grad,1079,26,0,832,11,upper_middle,2,Boomer
+954,961,PostGrad,578,20,0,239,9,middle,2,Boomer
+955,962,PostGrad,64,7,0,732,11,middle,3,Gen X
+956,963,PostGrad,149,13,0,444,10,middle,3,Gen X
+957,964,Grad,231,17,0,190,9,middle,4,Gen X
+958,965,Grad,728,21,0,476,10,middle,3,Boomer
+959,966,Grad,1778,23,2,500,10,upper,2,Gen X
+960,967,Grad,93,10,0,811,11,middle,3,Gen X
+961,968,PostGrad,23,4,0,628,10,middle,3,Gen X
+962,969,Grad,662,24,0,810,11,middle,3,Gen X
+963,970,Grad,1198,18,0,333,9,upper_middle,2,Millennial
+964,971,PostGrad,81,11,0,714,10,middle,5,Gen X
+965,972,PostGrad,92,10,0,780,11,lower,3,Millennial
+966,973,PostGrad,491,18,0,410,10,upper_middle,2,Boomer
+967,974,PostGrad,1564,24,0,809,11,upper_middle,2,Gen X
+968,975,Grad,926,24,0,332,9,upper_middle,2,Boomer
+969,976,PostGrad,1910,19,1,883,11,upper_middle,2,Boomer
+970,977,PostGrad,411,21,0,447,10,middle,5,Boomer
+971,978,Grad,94,9,0,363,9,middle,4,Silent
+972,979,Grad,1085,28,1,476,10,middle,3,Boomer
+973,980,PostGrad,23,4,0,538,10,middle,3,Boomer
+974,981,Grad,6,0,0,193,9,lower,1,Boomer
+975,982,PostGrad,54,6,0,512,10,middle,2,Gen X
+976,983,Grad,1150,29,0,444,10,upper_middle,2,Gen X
+977,984,Grad,1415,23,2,504,10,upper_middle,2,Silent
+978,985,PostGrad,405,16,0,498,10,upper_middle,3,Gen X
+979,986,PostGrad,1908,19,0,402,10,upper_middle,2,Gen X
+980,987,Grad,2486,26,3,433,10,upper_middle,2,Gen X
+981,988,PostGrad,1315,27,0,599,10,upper_middle,1,Gen X
+982,989,PostGrad,45,7,0,186,9,middle,3,Boomer
+983,990,Grad,1789,17,4,286,9,upper_middle,1,Boomer
+984,991,PostGrad,19,4,0,763,11,lower,3,Gen X
+985,992,PostGrad,573,22,1,853,11,middle,3,Gen X
+986,993,Grad,805,24,0,317,9,upper_middle,2,Millennial
+987,994,Grad,108,8,0,193,9,upper_middle,3,Boomer
+988,995,Grad,23,4,0,281,9,middle,1,Millennial
+989,996,Grad,1493,23,1,418,10,upper_middle,2,Gen X
+990,997,Grad,89,9,0,310,9,lower,4,Boomer
+991,998,Grad,936,25,1,506,10,middle,3,Gen X
+992,999,Grad,343,16,0,424,10,middle,2,Boomer
+993,1000,PostGrad,528,20,2,843,11,upper_middle,2,Boomer
+994,1001,PostGrad,1901,12,2,449,10,upper,1,Millennial
+995,1002,PostGrad,724,22,2,645,10,middle,4,Gen X
+996,1003,Grad,58,7,0,687,10,lower,3,Millennial
+997,1004,PostGrad,297,16,0,594,10,middle,3,Boomer
+998,1005,Grad,488,21,1,698,10,middle,2,Boomer
+999,1006,PostGrad,859,23,0,787,11,upper_middle,3,Silent
+1000,1007,Grad,1574,20,1,599,10,upper_middle,2,Silent
+1001,1008,Grad,69,10,1,340,9,lower,4,Gen X
+1002,1009,PostGrad,17,4,0,601,10,middle,3,Boomer
+1003,1010,Grad,2194,21,3,859,11,upper_middle,3,Gen X
+1004,1011,PostGrad,116,8,0,355,9,middle,3,Gen X
+1005,1012,Grad,279,18,0,665,10,middle,2,Gen X
+1006,1013,PostGrad,103,7,0,843,11,middle,3,Gen X
+1007,1014,PostGrad,44,9,0,258,9,middle,4,Gen X
+1008,1015,PostGrad,406,15,0,257,9,upper_middle,2,Silent
+1009,1016,PostGrad,1363,20,1,269,9,upper_middle,2,Boomer
+1010,1017,Grad,236,11,0,583,10,middle,2,Gen X
+1011,1018,Grad,39,5,0,728,10,middle,3,Gen X
+1012,1019,Grad,137,8,0,680,10,lower,1,Gen X
+1013,1020,Grad,79,10,0,196,9,middle,3,Gen X
+1014,1021,PostGrad,63,6,0,543,10,lower,3,Gen X
+1015,1022,PostGrad,1314,25,0,668,10,upper_middle,5,Silent
+1016,1023,PostGrad,71,6,0,191,9,middle,3,Boomer
+1017,1024,Grad,58,7,0,789,11,lower,3,Gen X
+1018,1025,PostGrad,702,21,0,633,10,middle,3,Boomer
+1019,1026,Grad,94,7,1,498,10,lower,2,Gen X
+1020,1027,Undergrad,80,7,0,702,10,lower,2,Millennial
+1021,1028,PostGrad,22,5,0,518,10,middle,2,Boomer
+1022,1029,PostGrad,1211,32,0,788,11,upper_middle,3,Boomer
+1023,1030,Grad,1461,22,1,551,10,upper_middle,2,Gen X
+1024,1031,Grad,1968,20,0,714,10,upper,1,Gen X
+1025,1032,Grad,1091,16,0,190,9,upper_middle,2,Gen X
+1026,1033,PostGrad,55,5,0,709,10,middle,3,Gen X
+1027,1034,Grad,1366,19,1,234,9,upper_middle,2,Gen X
+1028,1035,Grad,313,13,0,855,11,lower,1,Gen X
+1029,1036,PostGrad,62,11,0,309,9,middle,4,Boomer
+1030,1037,PostGrad,92,9,0,470,10,middle,3,Gen X
+1031,1038,PostGrad,72,6,1,277,9,middle,3,Gen X
+1032,1039,Grad,655,21,0,582,10,middle,3,Silent
+1033,1040,Grad,704,18,1,253,9,upper_middle,3,Boomer
+1034,1041,Grad,54,8,0,789,11,middle,4,Boomer
+1035,1042,Grad,178,16,0,835,11,lower,1,Millennial
+1036,1043,Grad,1033,14,1,223,9,upper_middle,2,Boomer
+1037,1044,Grad,36,5,0,520,10,middle,3,Millennial
+1038,1045,PostGrad,122,10,0,810,11,middle,2,Boomer
+1039,1046,PostGrad,122,7,0,463,10,middle,3,Boomer
+1040,1047,PostGrad,1123,27,0,445,10,upper_middle,3,Boomer
+1041,1048,Grad,497,18,0,779,11,middle,3,Millennial
+1042,1049,Grad,691,25,1,545,10,middle,3,Boomer
+1043,1050,PostGrad,1363,20,1,269,9,upper_middle,2,Boomer
+1044,1051,PostGrad,12,4,1,210,9,lower,4,Boomer
+1045,1052,PostGrad,2440,25,0,684,10,upper_middle,2,Silent
+1046,1053,PostGrad,56,7,0,686,10,lower,3,Gen X
+1047,1054,PostGrad,37,5,0,636,10,lower,3,Millennial
+1048,1055,Grad,968,21,0,818,11,upper_middle,1,Millennial
+1049,1056,Grad,270,15,0,855,11,middle,3,Gen X
+1050,1057,PostGrad,278,12,0,510,10,middle,2,Silent
+1051,1058,Grad,1250,22,0,765,11,upper_middle,1,Silent
+1052,1059,Grad,938,17,0,641,10,upper_middle,2,Millennial
+1053,1060,PostGrad,1178,28,1,822,11,upper_middle,4,Silent
+1054,1061,Grad,1155,26,1,525,10,upper_middle,4,Boomer
+1055,1062,PostGrad,653,20,0,721,10,middle,1,Millennial
+1056,1063,PostGrad,49,6,1,227,9,middle,3,Gen X
+1057,1064,PostGrad,506,17,0,265,9,upper_middle,3,Boomer
+1058,1065,Grad,38,8,0,841,11,lower,4,Boomer
+1059,1066,Grad,1650,23,2,245,9,upper_middle,1,Millennial
+1060,1067,PostGrad,1826,33,0,881,11,upper_middle,2,Boomer
+1061,1068,Grad,18,4,0,880,11,lower,1,Boomer
+1062,1069,Grad,906,24,0,303,9,upper_middle,2,Gen X
+1063,1070,PostGrad,46,8,0,221,9,middle,3,Gen X
+1064,1071,Grad,1477,25,0,759,11,upper_middle,3,Boomer
+1065,1072,Grad,766,23,0,762,11,upper_middle,3,Boomer
+1066,1073,Grad,47,7,0,311,9,middle,3,Silent
+1067,1074,Grad,467,14,0,532,10,middle,2,Boomer
+1068,1075,Grad,2116,21,1,547,10,upper,2,Boomer
+1069,1076,PostGrad,1298,25,2,610,10,upper,2,Gen X
+1070,1077,PostGrad,22,6,0,499,10,lower,4,Gen X
+1071,1078,PostGrad,396,15,0,344,9,middle,2,Gen X
+1072,1079,PostGrad,20,4,0,619,10,middle,3,Gen X
+1073,1080,Grad,967,13,0,290,9,upper_middle,1,Boomer
+1074,1081,Grad,357,19,0,775,11,middle,3,Gen X
+1075,1082,Grad,1401,16,0,862,11,upper_middle,2,Boomer
+1076,1083,Grad,15,4,0,502,10,middle,3,Millennial
+1077,1084,PostGrad,2087,20,1,698,10,upper_middle,1,Gen X
+1078,1085,Grad,981,26,0,696,10,middle,3,Gen X
+1079,1086,Grad,17,6,0,446,10,lower,3,Gen X
+1080,1087,PostGrad,523,22,4,727,10,upper_middle,2,Boomer
+1081,1088,Grad,23,4,0,243,9,middle,3,Millennial
+1082,1089,PostGrad,1192,17,0,290,9,upper_middle,1,Boomer
+1083,1090,PostGrad,1958,20,1,217,9,upper,2,Gen X
+1084,1091,PostGrad,133,9,0,250,9,middle,2,Gen X
+1085,1092,Grad,777,17,0,496,10,upper_middle,2,Boomer
+1086,1093,PostGrad,73,9,0,558,10,middle,3,Gen X
+1087,1094,PostGrad,121,10,0,295,9,middle,4,Boomer
+1088,1095,Grad,424,15,0,512,10,upper_middle,2,Gen X
+1089,1096,Grad,868,13,0,213,9,upper_middle,2,Boomer
+1090,1097,PostGrad,756,15,0,792,11,upper_middle,1,Millennial
+1091,1098,PostGrad,12,4,0,618,10,lower,3,Millennial
+1092,1099,Grad,937,25,0,729,10,middle,3,Gen X
+1093,1100,Grad,1862,17,3,450,10,upper_middle,1,Gen X
+1094,1101,PostGrad,367,14,0,591,10,middle,3,Gen X
+1095,1102,Grad,443,20,0,517,10,middle,3,Millennial
+1096,1103,Grad,267,13,0,432,10,middle,3,Gen X
+1097,1104,Grad,61,6,0,283,9,middle,3,Gen X
+1098,1105,PostGrad,1323,21,1,412,10,upper_middle,1,Boomer
+1099,1106,PostGrad,63,6,0,196,9,middle,3,Silent
+1100,1107,PostGrad,64,8,0,516,10,lower,2,Gen X
+1101,1108,PostGrad,562,19,1,336,9,upper_middle,3,Gen X
+1102,1109,Grad,312,19,0,215,9,upper_middle,4,Boomer
+1103,1110,Grad,1156,16,0,675,10,upper_middle,1,Boomer
+1104,1111,PostGrad,1104,16,1,671,10,upper_middle,1,Millennial
+1105,1112,PostGrad,16,4,0,326,9,middle,3,Gen X
+1106,1113,PostGrad,2008,19,1,318,9,upper,1,Boomer
+1107,1114,PostGrad,44,9,0,489,10,lower,2,Millennial
+1108,1115,Grad,1574,14,2,491,10,upper_middle,3,Gen X
+1109,1116,PostGrad,63,5,1,442,10,middle,3,Millennial
+1110,1117,PostGrad,426,12,1,468,10,middle,2,Millennial
+1111,1118,Undergrad,96,6,0,715,10,lower,2,Boomer
+1112,1119,PostGrad,635,23,0,476,10,middle,3,Gen X
+1113,1120,Grad,757,22,0,452,10,upper_middle,2,Gen X
+1114,1121,PostGrad,125,9,0,770,11,middle,3,Gen X
+1115,1122,PostGrad,332,16,0,594,10,middle,3,Gen X
+1116,1123,Grad,135,8,0,373,10,middle,2,Gen X
+1117,1124,Grad,330,14,0,774,11,middle,3,Boomer
+1118,1125,Grad,384,20,0,744,11,middle,3,Boomer
+1119,1126,Grad,1722,18,0,876,11,upper,3,Boomer
+1120,1127,Grad,78,7,0,252,9,middle,5,Gen X
+1121,1128,Undergrad,24,4,0,719,10,lower,1,Millennial
+1122,1129,PostGrad,1168,25,0,377,10,upper_middle,1,Silent
+1123,1130,PostGrad,957,17,1,716,10,upper_middle,3,Silent
+1124,1131,Grad,15,4,0,448,10,lower,3,Boomer
+1125,1132,Grad,57,5,0,208,9,middle,3,Gen X
+1126,1133,Grad,1956,24,1,780,11,upper_middle,3,Gen X
+1127,1134,Grad,2013,21,3,429,10,upper_middle,1,Millennial
+1128,1135,PostGrad,326,14,0,222,9,middle,3,Gen X
+1129,1136,PostGrad,77,9,0,879,11,middle,4,Gen X
+1130,1137,PostGrad,1313,20,0,608,10,upper_middle,1,Boomer
+1131,1138,PostGrad,30,8,0,224,9,lower,1,Millennial
+1132,1139,Grad,315,14,0,698,10,middle,3,Boomer
+1133,1140,PostGrad,660,22,0,560,10,middle,3,Silent
+1134,1141,Grad,74,7,0,700,10,middle,3,Millennial
+1135,1142,PostGrad,46,7,0,235,9,lower,2,Gen X
+1136,1143,PostGrad,86,8,0,502,10,middle,2,Boomer
+1137,1144,Grad,1103,25,0,422,10,upper_middle,1,Silent
+1138,1145,PostGrad,61,11,0,345,9,lower,3,Gen X
+1139,1146,Grad,145,9,1,408,10,middle,3,Gen X
+1140,1147,Grad,684,31,0,839,11,middle,4,Boomer
+1141,1148,PostGrad,411,16,0,415,10,upper_middle,3,Boomer
+1142,1149,Grad,27,4,1,810,11,lower,2,Millennial
+1143,1150,PostGrad,1060,27,0,544,10,middle,1,Silent
+1144,1151,Grad,1459,24,0,855,11,upper_middle,3,Boomer
+1145,1152,Grad,18,4,0,855,11,lower,3,Gen X
+1146,1153,Grad,1833,26,1,831,11,upper_middle,2,Gen X
+1147,1154,PostGrad,237,12,0,273,9,middle,3,Boomer
+1148,1155,PostGrad,48,10,0,218,9,lower,3,Boomer
+1149,1156,Grad,515,26,0,529,10,middle,4,Gen X
+1150,1157,Grad,1020,15,0,757,11,middle,2,Gen X
+1151,1158,Grad,1370,11,0,217,9,upper_middle,2,Boomer
+1152,1159,Grad,1026,25,0,661,10,middle,3,Silent
+1153,1160,Grad,301,12,0,284,9,middle,3,Boomer
+1154,1161,Grad,684,31,0,839,11,middle,4,Boomer
+1155,1162,Grad,499,17,1,803,11,upper_middle,3,Boomer
+1156,1163,Grad,1004,21,0,862,11,upper_middle,2,Millennial
+1157,1164,PostGrad,218,12,0,445,10,middle,3,Gen X
+1158,1165,Grad,606,22,0,588,10,upper_middle,3,Gen X
+1159,1166,PostGrad,75,6,0,545,10,middle,3,Gen X
+1160,1167,Grad,106,9,0,862,11,middle,5,Gen X
+1161,1168,Grad,990,17,0,582,10,upper_middle,2,Silent
+1162,1169,Grad,1097,16,0,344,9,upper_middle,1,Gen X
+1163,1170,Undergrad,16,4,1,318,9,lower,2,Millennial
+1164,1171,PostGrad,34,5,0,290,9,lower,2,Gen X
+1165,1172,PostGrad,1711,16,0,858,11,upper_middle,2,Millennial
+1166,1173,PostGrad,438,17,1,354,9,upper_middle,4,Boomer
+1167,1174,Undergrad,75,7,0,723,10,lower,3,Gen X
+1168,1175,PostGrad,225,13,0,414,10,middle,3,Boomer
+1169,1176,PostGrad,18,4,0,789,11,middle,4,Silent
+1170,1177,Grad,470,17,0,594,10,middle,3,Gen X
+1171,1178,Grad,91,9,0,628,10,lower,3,Gen X
+1172,1179,PostGrad,2525,18,1,322,9,upper,1,Millennial
+1173,1180,Grad,504,19,0,718,10,middle,3,Silent
+1174,1181,Grad,235,11,0,726,10,middle,3,Boomer
+1175,1182,PostGrad,1232,21,1,712,10,middle,2,Boomer
+1176,1183,Undergrad,88,12,0,608,10,lower,3,Boomer
+1177,1184,Grad,17,4,0,238,9,lower,2,Gen X
+1178,1185,Grad,24,5,0,517,10,lower,2,Millennial
+1179,1186,Grad,60,7,0,497,10,middle,4,Boomer
+1180,1187,PostGrad,1020,26,1,494,10,upper_middle,2,Silent
+1181,1188,PostGrad,155,10,0,756,11,middle,3,Boomer
+1182,1189,PostGrad,51,5,0,308,9,middle,4,Gen X
+1183,1190,PostGrad,1812,16,0,740,11,upper_middle,1,Gen X
+1184,1191,PostGrad,1461,25,2,775,11,upper_middle,2,Gen X
+1185,1192,Grad,96,6,0,256,9,upper_middle,2,Boomer
+1186,1193,Grad,160,9,0,318,9,upper_middle,2,Silent
+1187,1194,PostGrad,139,10,0,619,10,middle,4,Gen X
+1188,1195,PostGrad,908,22,0,620,10,upper_middle,2,Gen X
+1189,1196,PostGrad,183,8,0,487,10,middle,3,Boomer
+1190,1197,PostGrad,1161,19,1,641,10,upper_middle,3,Gen X
+1191,1198,PostGrad,988,14,0,271,9,upper_middle,2,Gen X
+1192,1199,PostGrad,1072,27,0,844,11,upper_middle,2,Boomer
+1193,1200,Grad,174,12,0,477,10,middle,4,Gen X
+1194,1201,Grad,758,22,0,706,10,upper_middle,3,Boomer
+1195,1202,PostGrad,195,11,0,366,10,middle,3,Boomer
+1196,1203,Grad,31,6,1,813,11,lower,2,Gen X
+1197,1204,PostGrad,1084,17,0,502,10,upper_middle,2,Boomer
+1198,1205,PostGrad,685,22,1,680,10,middle,3,Boomer
+1199,1206,PostGrad,1672,26,1,405,10,upper_middle,2,Boomer
+1200,1207,Grad,43,6,0,429,10,lower,2,Millennial
+1201,1208,PostGrad,49,5,1,319,9,middle,4,Boomer
+1202,1209,Grad,133,9,0,589,10,middle,3,Boomer
+1203,1210,Grad,363,15,1,446,10,middle,3,Boomer
+1204,1211,Grad,545,18,0,626,10,upper_middle,3,Boomer
+1205,1212,Grad,1065,31,1,431,10,upper_middle,3,Gen X
+1206,1213,Grad,2047,21,1,660,10,upper_middle,2,Gen X
+1207,1214,Grad,296,15,0,792,11,middle,4,Gen X
+1208,1215,Grad,140,11,0,552,10,middle,3,Gen X
+1209,1216,Grad,530,17,0,533,10,upper_middle,2,Boomer
+1210,1217,PostGrad,152,13,0,876,11,middle,4,Boomer
+1211,1218,PostGrad,1598,24,0,452,10,upper_middle,2,Millennial
+1212,1219,Grad,114,8,0,712,10,middle,2,Boomer
+1213,1220,Undergrad,101,10,0,862,11,lower,2,Millennial
+1214,1221,Grad,25,4,0,466,10,lower,3,Gen X
+1215,1222,PostGrad,789,22,1,705,10,upper_middle,1,Boomer
+1216,1223,Grad,87,7,1,520,10,middle,4,Gen X
+1217,1224,PostGrad,90,11,0,466,10,middle,3,Boomer
+1218,1225,PostGrad,1215,20,0,613,10,upper_middle,3,Boomer
+1219,1226,PostGrad,811,22,1,446,10,upper_middle,1,Boomer
+1220,1227,Grad,61,7,1,801,11,lower,3,Millennial
+1221,1228,PostGrad,405,18,0,504,10,middle,3,Gen X
+1222,1229,PostGrad,72,9,0,277,9,middle,4,Boomer
+1223,1230,Grad,189,14,0,685,10,middle,3,Gen X
+1224,1231,PostGrad,40,5,0,551,10,middle,3,Millennial
+1225,1232,Grad,63,10,0,326,9,middle,2,Gen X
+1226,1233,Grad,52,7,0,651,10,lower,3,Millennial
+1227,1234,PostGrad,39,5,0,244,9,middle,3,Gen X
+1228,1235,Grad,805,25,0,220,9,upper_middle,3,Gen X
+1229,1236,PostGrad,130,8,0,259,9,middle,3,Boomer
+1230,1237,Grad,1631,24,3,454,10,upper_middle,2,Gen X
+1231,1238,Grad,34,5,0,546,10,lower,3,Millennial
+1232,1239,Grad,152,12,0,398,10,middle,3,Silent
+1233,1240,Undergrad,21,5,0,348,9,lower,2,Millennial
+1234,1241,PostGrad,71,7,0,455,10,upper_middle,5,Boomer
+1235,1242,Grad,899,23,1,222,9,upper_middle,2,Boomer
+1236,1243,PostGrad,711,10,0,256,9,upper_middle,2,Silent
+1237,1244,PostGrad,351,16,0,880,11,lower,3,Gen X
+1238,1245,Grad,8,15,0,228,9,lower,1,Gen X
+1239,1246,Undergrad,119,11,0,759,11,lower,2,Millennial
+1240,1247,Grad,21,4,0,636,10,middle,4,Gen X
+1241,1248,PostGrad,10,4,0,283,9,lower,3,Gen X
+1242,1249,Grad,973,27,1,222,9,upper_middle,3,Gen X
+1243,1250,PostGrad,1536,13,2,492,10,upper_middle,2,Boomer
+1244,1251,Grad,992,28,1,534,10,upper_middle,4,Silent
+1245,1252,PostGrad,1529,34,1,678,10,upper_middle,3,Boomer
+1246,1253,Grad,860,17,0,476,10,upper_middle,3,Gen X
+1247,1254,Grad,928,23,0,440,10,upper_middle,2,Boomer
+1248,1255,PostGrad,418,18,0,885,11,middle,4,Gen X
+1249,1256,PostGrad,587,16,0,881,11,upper_middle,3,Boomer
+1250,1257,Grad,641,19,0,234,9,upper_middle,3,Gen X
+1251,1258,Grad,23,4,1,288,9,middle,4,Gen X
+1252,1259,Grad,2279,23,2,503,10,upper_middle,2,Gen X
+1253,1260,PostGrad,49,6,1,227,9,middle,3,Gen X
+1254,1261,PostGrad,1779,17,1,589,10,upper,1,Millennial
+1255,1262,PostGrad,1804,27,2,392,10,upper_middle,2,Millennial
+1256,1263,Grad,48,8,0,544,10,middle,4,Boomer
+1257,1264,Grad,83,7,0,301,9,middle,3,Silent
+1258,1265,Grad,1862,17,3,450,10,upper_middle,1,Gen X
+1259,1266,PostGrad,793,29,0,829,11,middle,4,Boomer
+1260,1267,Grad,84,9,0,692,10,lower,3,Gen X
+1261,1268,PostGrad,183,10,0,499,10,middle,3,Silent
+1262,1269,PostGrad,1383,19,0,194,9,upper_middle,1,Boomer
+1263,1270,Grad,999,16,1,269,9,middle,2,Silent
+1264,1271,PostGrad,825,24,0,709,10,upper_middle,2,Boomer
+1265,1272,Grad,246,14,1,858,11,middle,2,Gen X
+1266,1273,PostGrad,610,25,0,653,10,middle,4,Boomer
+1267,1274,PostGrad,76,9,0,771,11,lower,2,Gen X
+1268,1275,Grad,1286,22,1,674,10,upper_middle,3,Gen X
+1269,1276,PostGrad,30,4,1,381,10,middle,3,Gen X
+1270,1277,Grad,99,8,0,730,10,middle,5,Boomer
+1271,1278,Grad,1192,22,1,832,11,upper_middle,1,Gen X
+1272,1279,Grad,362,18,0,398,10,middle,3,Gen X
+1273,1280,Grad,2130,19,1,875,11,upper_middle,2,Millennial
+1274,1281,PostGrad,1229,28,2,866,11,middle,1,Gen X
+1275,1282,PostGrad,38,6,0,833,11,middle,4,Boomer
+1276,1283,PostGrad,485,17,0,529,10,middle,2,Silent
+1277,1284,Undergrad,434,13,0,787,11,lower,2,Silent
+1278,1285,Grad,44,5,0,658,10,middle,2,Gen X
+1279,1286,PostGrad,496,18,1,769,11,middle,3,Gen X
+1280,1287,PostGrad,78,7,0,572,10,middle,4,Gen X
+1281,1288,PostGrad,2346,23,3,690,10,upper_middle,2,Gen X
+1282,1289,Grad,794,21,0,732,11,middle,2,Gen X
+1283,1290,Grad,17,4,0,483,10,lower,2,Boomer
+1284,1291,Grad,26,5,0,519,10,lower,2,Gen X
+1285,1292,PostGrad,76,8,0,289,9,middle,3,Gen X
+1286,1293,PostGrad,15,4,0,390,10,middle,3,Gen X
+1287,1294,PostGrad,62,7,0,264,9,middle,3,Boomer
+1288,1295,PostGrad,198,10,0,278,9,upper_middle,3,Boomer
+1289,1296,PostGrad,49,5,0,433,10,middle,3,Gen X
+1290,1297,Grad,802,25,1,556,10,upper_middle,3,Boomer
+1291,1298,Grad,1736,15,1,316,9,upper_middle,2,Silent
+1292,1299,Grad,57,10,0,735,11,lower,3,Gen X
+1293,1301,Grad,2302,18,3,668,10,upper,2,Silent
+1294,1302,PostGrad,37,6,0,317,9,lower,2,Millennial
+1295,1303,Grad,310,16,0,675,10,middle,3,Gen X
+1296,1304,Grad,1305,19,1,791,11,upper_middle,2,Gen X
+1297,1305,Grad,832,26,0,552,10,upper_middle,3,Boomer
+1298,1306,Grad,401,19,0,638,10,middle,4,Gen X
+1299,1307,PostGrad,1501,23,2,223,9,upper_middle,2,Boomer
+1300,1308,Grad,1189,28,4,352,9,upper_middle,2,Millennial
+1301,1309,Grad,1194,32,0,528,10,upper_middle,3,Gen X
+1302,1310,PostGrad,656,21,0,335,9,upper_middle,3,Boomer
+1303,1311,PostGrad,1540,23,0,769,11,upper_middle,1,Boomer
+1304,1312,PostGrad,311,15,0,493,10,middle,3,Boomer
+1305,1313,PostGrad,820,26,0,421,10,upper_middle,3,Boomer
+1306,1314,PostGrad,274,14,0,355,9,upper_middle,3,Millennial
+1307,1315,PostGrad,57,9,0,621,10,lower,3,Boomer
+1308,1316,Grad,448,17,0,457,10,middle,3,Boomer
+1309,1317,PostGrad,44,5,0,205,9,middle,4,Gen X
+1310,1318,Grad,102,8,0,521,10,middle,4,Gen X
+1311,1319,Grad,61,5,0,334,9,middle,3,Millennial
+1312,1320,PostGrad,1643,27,0,619,10,upper_middle,2,Boomer
+1313,1321,PostGrad,397,15,0,574,10,middle,3,Boomer
+1314,1322,Grad,1121,26,1,359,9,upper_middle,3,Gen X
+1315,1323,Grad,473,16,1,850,11,middle,3,Gen X
+1316,1324,Undergrad,50,8,0,278,9,lower,3,Gen X
+1317,1325,PostGrad,1678,28,0,686,10,upper_middle,3,Boomer
+1318,1326,Grad,58,7,0,258,9,lower,2,Millennial
+1319,1327,PostGrad,170,9,0,463,10,middle,3,Gen X
+1320,1328,PostGrad,373,2,0,385,10,lower,1,Millennial
+1321,1329,PostGrad,1196,17,1,410,10,upper_middle,2,Silent
+1322,1330,Grad,101,8,0,300,9,lower,3,Gen X
+1323,1331,Grad,316,17,0,750,11,middle,4,Gen X
+1324,1332,Grad,1400,21,2,470,10,upper_middle,3,Boomer
+1325,1333,Grad,1424,27,0,521,10,upper,1,Silent
+1326,1334,PostGrad,844,20,3,866,11,upper,3,Gen X
+1327,1335,Grad,311,13,0,471,10,middle,3,Gen X
+1328,1336,Grad,1149,17,0,603,10,upper_middle,2,Millennial
+1329,1337,PostGrad,129,8,0,256,9,middle,2,Millennial
+1330,1338,Grad,32,5,0,442,10,middle,2,Silent
+1331,1339,Grad,299,14,0,876,11,middle,2,Millennial
+1332,1340,Grad,320,13,1,217,9,middle,3,Boomer
+1333,1341,PostGrad,441,16,0,771,11,middle,3,Gen X
+1334,1342,PostGrad,1178,28,1,822,11,upper_middle,4,Silent
+1335,1343,Grad,85,6,0,684,10,lower,2,Millennial
+1336,1344,Undergrad,24,4,0,652,10,lower,2,Millennial
+1337,1345,Grad,112,8,0,680,10,middle,2,Gen X
+1338,1346,PostGrad,30,5,0,690,10,lower,3,Boomer
+1339,1347,PostGrad,410,16,0,560,10,middle,2,Millennial
+1340,1348,Grad,800,24,1,488,10,upper_middle,3,Gen X
+1341,1349,PostGrad,1313,20,0,608,10,upper_middle,1,Boomer
+1342,1350,PostGrad,1483,23,0,642,10,upper_middle,2,Boomer
+1343,1351,Grad,1258,17,0,437,10,upper_middle,1,Millennial
+1344,1352,Grad,28,4,0,784,11,lower,3,Millennial
+1345,1353,Grad,227,11,0,339,9,upper_middle,3,Boomer
+1346,1354,Grad,1555,20,1,783,11,upper_middle,2,Millennial
+1347,1355,Grad,861,23,0,655,10,upper_middle,2,Boomer
+1348,1356,Grad,103,8,1,619,10,middle,3,Gen X
+1349,1357,PostGrad,634,19,0,248,9,upper_middle,1,Silent
+1350,1358,Grad,1918,19,0,368,10,upper_middle,1,Boomer
+1351,1359,PostGrad,131,10,0,454,10,middle,3,Gen X
+1352,1360,Grad,586,22,0,827,11,upper_middle,4,Gen X
+1353,1361,Undergrad,62,7,1,404,10,lower,3,Millennial
+1354,1362,Grad,447,22,0,581,10,middle,3,Gen X
+1355,1363,PostGrad,939,27,0,884,11,middle,2,Silent
+1356,1364,PostGrad,797,15,1,525,10,upper_middle,2,Gen X
+1357,1365,PostGrad,1143,16,0,849,11,upper_middle,2,Boomer
+1358,1366,Grad,415,17,0,420,10,middle,2,Gen X
+1359,1367,Grad,30,5,0,402,10,middle,3,Gen X
+1360,1368,PostGrad,187,12,0,371,10,middle,2,Gen X
+1361,1369,Grad,251,11,0,233,9,upper_middle,3,Boomer
+1362,1370,Grad,237,12,0,247,9,middle,2,Gen X
+1363,1371,PostGrad,91,8,0,372,10,middle,4,Boomer
+1364,1372,PostGrad,35,6,0,605,10,middle,4,Boomer
+1365,1373,PostGrad,493,22,1,819,11,middle,2,Boomer
+1366,1374,PostGrad,971,28,0,669,10,middle,3,Gen X
+1367,1375,Grad,371,17,0,760,11,middle,2,Boomer
+1368,1376,Grad,396,20,0,367,10,middle,4,Gen X
+1369,1377,Grad,68,7,1,499,10,lower,3,Millennial
+1370,1378,PostGrad,322,15,1,555,10,middle,3,Gen X
+1371,1379,PostGrad,317,14,0,640,10,middle,3,Gen X
+1372,1380,PostGrad,222,10,0,241,9,middle,2,Boomer
+1373,1381,PostGrad,177,12,0,547,10,middle,4,Boomer
+1374,1382,Grad,45,5,0,850,11,middle,4,Boomer
+1375,1383,PostGrad,21,4,0,354,9,middle,3,Boomer
+1376,1384,Grad,45,6,0,817,11,lower,3,Gen X
+1377,1385,Grad,1899,20,2,351,9,upper,2,Silent
+1378,1386,PostGrad,42,5,0,305,9,middle,3,Gen X
+1379,1387,PostGrad,22,6,0,499,10,lower,4,Gen X
+1380,1388,Grad,41,5,0,746,11,middle,4,Gen X
+1381,1389,Grad,1440,21,0,244,9,upper_middle,2,Gen X
+1382,1390,PostGrad,325,17,0,447,10,middle,4,Gen X
+1383,1391,Grad,95,10,0,455,10,lower,3,Gen X
+1384,1392,PostGrad,42,5,0,305,9,middle,3,Gen X
+1385,1393,PostGrad,72,6,0,783,11,middle,3,Gen X
+1386,1394,PostGrad,20,7,0,231,9,middle,3,Gen X
+1387,1395,PostGrad,789,23,0,520,10,upper_middle,4,Boomer
+1388,1396,Grad,15,4,0,224,9,middle,3,Gen X
+1389,1397,Grad,59,8,0,328,9,lower,2,Gen X
+1390,1398,PostGrad,908,22,0,620,10,upper_middle,2,Gen X
+1391,1399,PostGrad,417,14,0,752,11,middle,4,Gen X
+1392,1400,Grad,289,15,0,859,11,upper_middle,4,Boomer
+1393,1401,Grad,769,21,0,278,9,upper_middle,3,Gen X
+1394,1402,Grad,188,10,0,255,9,middle,3,Silent
+1395,1403,Grad,354,14,0,871,11,middle,2,Boomer
+1396,1404,PostGrad,727,26,0,811,11,middle,3,Gen X
+1397,1405,PostGrad,146,11,0,877,11,middle,4,Boomer
+1398,1406,PostGrad,319,16,0,630,10,middle,3,Silent
+1399,1407,PostGrad,794,22,0,380,10,upper_middle,3,Silent
+1400,1408,Grad,454,18,0,845,11,middle,3,Silent
+1401,1409,PostGrad,152,11,0,847,11,middle,3,Silent
+1402,1410,PostGrad,797,22,0,825,11,upper_middle,3,Gen X
+1403,1411,Grad,1690,16,3,591,10,upper_middle,3,Gen X
+1404,1412,PostGrad,20,4,0,317,9,middle,4,Gen X
+1405,1413,Grad,1428,21,1,344,9,upper_middle,2,Silent
+1406,1414,Grad,209,11,0,687,10,middle,2,Millennial
+1407,1415,Grad,545,19,0,570,10,middle,2,Gen X
+1408,1416,Undergrad,96,6,0,715,10,lower,2,Boomer
+1409,1417,Grad,222,10,0,312,9,middle,2,Silent
+1410,1418,Grad,61,7,0,291,9,middle,5,Gen X
+1411,1419,Grad,44,9,0,338,9,lower,4,Gen X
+1412,1420,PostGrad,8,4,0,265,9,middle,5,Gen X
+1413,1421,PostGrad,817,23,0,445,10,upper_middle,1,Gen X
+1414,1422,Grad,1371,23,1,781,11,upper_middle,2,Boomer
+1415,1423,PostGrad,42,5,0,319,9,middle,3,Gen X
+1416,1424,Grad,60,5,0,734,11,lower,2,Boomer
+1417,1425,Grad,78,9,0,607,10,lower,3,Gen X
+1418,1426,PostGrad,23,4,0,628,10,middle,3,Gen X
+1419,1427,PostGrad,19,4,0,472,10,middle,3,Gen X
+1420,1428,PostGrad,61,7,0,277,9,middle,3,Boomer
+1421,1429,Grad,449,14,0,668,10,middle,1,Gen X
+1422,1430,PostGrad,37,5,0,636,10,lower,3,Millennial
+1423,1431,PostGrad,38,5,0,322,9,middle,2,Gen X
+1424,1432,Grad,1131,23,2,378,10,upper,2,Millennial
+1425,1433,Grad,34,7,0,374,10,middle,3,Gen X
+1426,1434,Grad,294,17,0,428,10,upper_middle,3,Boomer
+1427,1435,PostGrad,48,6,1,607,10,middle,4,Gen X
+1428,1436,Grad,289,15,0,859,11,upper_middle,4,Boomer
+1429,1437,PostGrad,30,4,0,706,10,lower,2,Millennial
+1430,1438,Grad,125,7,0,253,9,middle,2,Boomer
+1431,1439,Grad,156,9,0,686,10,middle,3,Millennial
+1432,1440,Grad,70,9,0,532,10,middle,4,Silent
+1433,1441,PostGrad,22,4,0,467,10,middle,4,Silent
+1434,1442,Grad,65,9,0,850,11,lower,3,Gen X
+1435,1443,PostGrad,1930,23,1,799,11,upper_middle,1,Silent
+1436,1444,Grad,2283,23,2,461,10,upper_middle,2,Silent
+1437,1445,Grad,310,13,0,443,10,middle,2,Boomer
+1438,1446,PostGrad,1319,18,0,746,11,upper_middle,2,Gen X
+1439,1447,Grad,879,26,1,761,11,middle,3,Boomer
+1440,1448,PostGrad,1244,17,0,433,10,upper_middle,2,Millennial
+1441,1449,PostGrad,690,17,0,284,9,upper_middle,3,Gen X
+1442,1450,Grad,209,12,0,683,10,middle,3,Gen X
+1443,1451,Grad,1134,17,0,206,9,upper_middle,2,Boomer
+1444,1452,Grad,1507,23,0,414,10,upper_middle,1,Silent
+1445,1453,PostGrad,57,6,0,458,10,middle,2,Boomer
+1446,1454,PostGrad,529,17,0,856,11,middle,2,Boomer
+1447,1455,Grad,1091,16,0,190,9,upper_middle,2,Gen X
+1448,1456,Grad,180,11,0,810,11,middle,2,Gen X
+1449,1457,Grad,77,10,0,719,10,lower,4,Gen X
+1450,1458,Grad,2349,25,3,323,9,upper,1,Gen X
+1451,1459,PostGrad,534,18,0,839,11,middle,2,Gen X
+1452,1460,PostGrad,556,21,1,340,9,upper_middle,2,Silent
+1453,1461,Grad,637,25,0,500,10,upper_middle,3,Boomer
+1454,1462,PostGrad,46,5,2,263,9,middle,4,Boomer
+1455,1463,Grad,44,9,0,197,9,lower,3,Gen X
+1456,1464,PostGrad,47,5,0,542,10,lower,3,Millennial
+1457,1465,PostGrad,795,22,0,560,10,middle,2,Boomer
+1458,1466,Grad,586,21,0,687,10,middle,3,Silent
+1459,1467,Grad,1574,20,1,599,10,upper_middle,2,Silent
+1460,1468,PostGrad,13,4,0,327,9,middle,4,Silent
+1461,1469,Grad,1471,25,0,715,10,upper_middle,3,Gen X
+1462,1470,PostGrad,65,8,0,376,10,lower,4,Gen X
+1463,1471,Grad,175,12,0,609,10,middle,3,Gen X
+1464,1472,Grad,40,5,0,614,10,middle,2,Boomer
+1465,1473,PostGrad,1078,18,2,852,11,upper,4,Gen X
+1466,1474,Grad,1115,21,0,776,11,upper_middle,3,Boomer
+1467,1475,Grad,134,9,0,688,10,middle,3,Boomer
+1468,1476,PostGrad,1540,23,0,769,11,upper_middle,1,Boomer
+1469,1477,PostGrad,87,7,0,425,10,upper_middle,3,Gen X
+1470,1478,PostGrad,217,10,0,430,10,middle,1,Millennial
+1471,1479,PostGrad,1034,27,1,342,9,middle,3,Boomer
+1472,1480,Grad,1180,31,0,640,10,upper_middle,2,Gen X
+1473,1481,Grad,819,23,0,853,11,upper_middle,3,Boomer
+1474,1482,PostGrad,32,5,0,442,10,lower,3,Gen X
+1475,1483,Grad,46,6,0,497,10,lower,3,Gen X
+1476,1484,PostGrad,1159,18,0,882,11,upper_middle,3,Gen X
+1477,1485,PostGrad,860,25,0,669,10,upper_middle,2,Gen X
+1478,1486,PostGrad,1631,15,0,193,9,upper_middle,2,Gen X
+1479,1487,PostGrad,444,22,1,205,9,upper_middle,5,Silent
+1480,1488,Grad,1910,29,1,720,10,upper_middle,3,Boomer
+1481,1489,PostGrad,380,18,0,417,10,middle,3,Gen X
+1482,1490,PostGrad,736,30,0,556,10,upper_middle,4,Gen X
+1483,1491,PostGrad,269,15,0,710,10,middle,3,Silent
+1484,1492,Grad,2524,29,3,523,10,upper,2,Millennial
+1485,1493,Grad,612,25,0,457,10,upper_middle,3,Gen X
+1486,1494,Grad,75,8,0,386,10,middle,3,Millennial
+1487,1495,Grad,1045,26,0,340,9,upper_middle,2,Boomer
+1488,1496,Grad,55,6,0,396,10,middle,2,Gen X
+1489,1497,PostGrad,1064,21,1,868,11,middle,3,Gen X
+1490,1498,Grad,1443,25,0,779,11,upper_middle,3,Boomer
+1491,1499,Grad,1366,30,0,718,10,upper_middle,2,Millennial
+1492,1500,PostGrad,436,19,0,689,10,middle,4,Gen X
+1493,1501,PostGrad,38,5,0,322,9,middle,2,Gen X
+1494,1502,Grad,436,20,0,867,11,middle,3,Gen X
+1495,1503,PostGrad,747,32,0,787,11,middle,4,Gen X
+1496,1504,PostGrad,1396,22,1,864,11,middle,1,Boomer
+1497,1505,PostGrad,928,14,1,287,9,upper_middle,2,Gen X
+1498,1506,PostGrad,642,26,0,541,10,middle,4,Gen X
+1499,1507,PostGrad,1048,30,1,785,11,middle,3,Gen X
+1500,1508,PostGrad,943,24,0,433,10,upper_middle,2,Gen X
+1501,1509,Grad,907,27,0,572,10,middle,3,Boomer
+1502,1510,Grad,1198,18,0,333,9,upper_middle,2,Millennial
+1503,1511,PostGrad,120,11,0,866,11,middle,3,Gen X
+1504,1512,Grad,1658,26,0,767,11,upper_middle,3,Boomer
+1505,1513,Grad,1638,22,0,249,9,upper_middle,2,Millennial
+1506,1514,PostGrad,73,7,0,611,10,lower,2,Gen X
+1507,1515,Grad,275,12,0,296,9,middle,2,Gen X
+1508,1516,Grad,854,26,0,764,11,middle,3,Boomer
+1509,1517,Grad,78,7,0,479,10,middle,3,Gen X
+1510,1518,PostGrad,106,7,0,468,10,middle,3,Gen X
+1511,1519,Grad,106,7,0,781,11,lower,2,Gen X
+1512,1520,PostGrad,1923,19,0,577,10,upper,1,Millennial
+1513,1521,Grad,1662,22,0,585,10,upper_middle,2,Gen X
+1514,1522,Grad,84,7,0,328,9,middle,2,Gen X
+1515,1523,PostGrad,48,7,0,240,9,middle,3,Gen X
+1516,1524,Grad,5,0,0,628,10,lower,2,Gen X
+1517,1525,Grad,733,32,0,772,11,upper_middle,4,Gen X
+1518,1526,PostGrad,1234,17,0,271,9,upper_middle,1,Silent
+1519,1527,Grad,112,9,0,751,11,lower,4,Boomer
+1520,1528,PostGrad,1658,15,2,311,9,upper_middle,1,Millennial
+1521,1529,Grad,55,7,0,648,10,lower,3,Boomer
+1522,1530,PostGrad,1513,26,1,751,11,middle,3,Gen X
+1523,1531,PostGrad,271,17,1,596,10,middle,4,Boomer
+1524,1532,PostGrad,904,27,0,201,9,upper_middle,3,Gen X
+1525,1533,PostGrad,120,11,0,866,11,middle,3,Gen X
+1526,1534,PostGrad,103,8,0,849,11,lower,3,Millennial
+1527,1535,PostGrad,269,17,0,818,11,lower,2,Millennial
+1528,1536,Grad,22,5,0,377,10,lower,2,Millennial
+1529,1537,PostGrad,1156,16,0,390,10,upper_middle,1,Boomer
+1530,1538,PostGrad,1086,19,1,807,11,upper_middle,3,Gen X
+1531,1539,PostGrad,1128,28,0,719,10,upper_middle,2,Boomer
+1532,1540,Grad,72,9,0,279,9,middle,3,Millennial
+1533,1541,PostGrad,964,27,0,664,10,upper_middle,4,Boomer
+1534,1542,Grad,1383,20,0,763,11,upper_middle,2,Gen X
+1535,1543,PostGrad,18,4,0,585,10,middle,4,Silent
+1536,1544,Grad,793,24,0,853,11,middle,2,Boomer
+1537,1545,PostGrad,100,7,0,718,10,middle,3,Millennial
+1538,1546,PostGrad,80,6,0,486,10,middle,2,Millennial
+1539,1547,Grad,167,8,0,783,11,middle,1,Boomer
+1540,1548,Grad,677,20,0,711,10,upper_middle,2,Boomer
+1541,1549,PostGrad,23,4,0,643,10,middle,4,Gen X
+1542,1550,PostGrad,92,7,0,446,10,middle,2,Silent
+1543,1551,PostGrad,641,16,0,299,9,upper_middle,2,Boomer
+1544,1552,Grad,1106,17,0,851,11,upper_middle,3,Boomer
+1545,1553,Grad,1033,14,1,223,9,upper_middle,2,Boomer
+1546,1554,Grad,1174,32,0,872,11,upper_middle,3,Gen X
+1547,1555,PostGrad,25,6,0,473,10,middle,4,Boomer
+1548,1556,PostGrad,240,17,1,795,11,middle,4,Boomer
+1549,1557,Grad,20,4,0,566,10,middle,2,Gen X
+1550,1558,Grad,102,11,0,708,10,lower,4,Boomer
+1551,1559,PostGrad,1034,26,0,529,10,upper_middle,2,Gen X
+1552,1560,Grad,156,9,0,686,10,middle,3,Millennial
+1553,1561,PostGrad,458,21,0,423,10,middle,4,Gen X
+1554,1562,Grad,17,4,0,791,11,lower,3,Millennial
+1555,1563,Grad,792,21,0,197,9,upper_middle,2,Boomer
+1556,1564,Grad,92,8,0,199,9,middle,3,Millennial
+1557,1565,Grad,407,16,0,712,10,middle,2,Silent
+1558,1566,PostGrad,1269,23,1,760,11,upper_middle,2,Boomer
+1559,1567,Grad,841,23,0,261,9,upper_middle,3,Boomer
+1560,1568,PostGrad,633,23,0,826,11,middle,4,Silent
+1561,1569,PostGrad,1019,25,0,645,10,upper_middle,5,Boomer
+1562,1570,PostGrad,1315,26,2,768,11,upper_middle,1,Silent
+1563,1571,Grad,54,8,0,789,11,middle,4,Boomer
+1564,1572,PostGrad,2525,18,1,322,9,upper,1,Millennial
+1565,1573,PostGrad,52,5,0,430,10,lower,3,Millennial
+1566,1574,Grad,436,20,0,867,11,middle,3,Gen X
+1567,1575,PostGrad,268,15,0,643,10,middle,3,Boomer
+1568,1576,Grad,147,8,0,284,9,middle,4,Millennial
+1569,1577,PostGrad,1798,18,2,248,9,upper_middle,2,Silent
+1570,1578,Grad,137,8,0,559,10,middle,2,Millennial
+1571,1579,PostGrad,507,17,0,708,10,upper_middle,2,Gen X
+1572,1580,Grad,15,4,0,343,9,middle,5,Boomer
+1573,1581,PostGrad,1105,17,0,386,10,upper_middle,2,Silent
+1574,1582,Grad,974,15,0,395,10,upper_middle,1,Silent
+1575,1583,PostGrad,66,8,0,253,9,middle,3,Boomer
+1576,1584,Grad,778,27,0,310,9,upper_middle,1,Millennial
+1577,1585,PostGrad,49,6,1,227,9,middle,3,Gen X
+1578,1586,PostGrad,169,12,0,865,11,middle,4,Silent
+1579,1587,Grad,299,12,0,188,9,upper_middle,2,Boomer
+1580,1588,Grad,221,17,0,631,10,middle,3,Gen X
+1581,1589,Grad,1682,25,1,373,10,upper_middle,2,Millennial
+1582,1590,PostGrad,155,10,0,756,11,middle,3,Boomer
+1583,1591,Grad,892,13,0,686,10,upper_middle,2,Boomer
+1584,1592,Undergrad,58,5,1,853,11,lower,3,Millennial
+1585,1593,PostGrad,311,15,0,493,10,middle,3,Boomer
+1586,1594,PostGrad,95,7,0,271,9,middle,2,Boomer
+1587,1595,PostGrad,424,19,0,805,11,middle,2,Gen X
+1588,1596,PostGrad,47,12,0,320,9,lower,4,Boomer
+1589,1597,Grad,339,15,1,443,10,middle,2,Millennial
+1590,1598,Grad,1410,21,0,825,11,upper_middle,3,Gen X
+1591,1599,PostGrad,35,6,0,251,9,middle,3,Gen X
+1592,1600,PostGrad,562,20,0,553,10,middle,3,Boomer
+1593,1601,PostGrad,2352,24,1,827,11,upper,2,Boomer
+1594,1602,PostGrad,1334,20,1,579,10,upper_middle,1,Boomer
+1595,1603,Grad,32,6,0,489,10,middle,4,Boomer
+1596,1604,Grad,41,7,0,305,9,lower,4,Boomer
+1597,1605,PostGrad,39,5,0,523,10,middle,4,Boomer
+1598,1606,Grad,1141,25,0,715,10,upper_middle,3,Gen X
+1599,1607,PostGrad,710,24,1,642,10,middle,2,Millennial
+1600,1608,PostGrad,401,19,0,298,9,upper_middle,3,Gen X
+1601,1609,PostGrad,506,17,0,265,9,upper_middle,3,Boomer
+1602,1610,Grad,1538,21,0,874,11,upper_middle,1,Millennial
+1603,1611,PostGrad,57,6,0,758,11,lower,2,Gen X
+1604,1612,Grad,1722,19,1,502,10,upper_middle,1,Millennial
+1605,1613,Grad,270,15,0,510,10,middle,2,Gen X
+1606,1614,Grad,31,6,0,368,10,middle,4,Gen X
+1607,1615,Grad,882,24,0,453,10,middle,3,Millennial
+1608,1616,Grad,16,4,0,431,10,lower,3,Millennial
+1609,1617,Grad,311,14,0,228,9,middle,2,Millennial
+1610,1618,Grad,227,11,0,339,9,upper_middle,3,Boomer
+1611,1619,PostGrad,1152,31,0,784,11,middle,3,Boomer
+1612,1620,PostGrad,122,8,1,499,10,middle,3,Boomer
+1613,1621,Grad,77,9,0,719,10,lower,3,Gen X
+1614,1622,PostGrad,1289,19,0,828,11,upper_middle,2,Millennial
+1615,1623,Grad,561,24,0,715,10,middle,3,Boomer
+1616,1624,Grad,211,13,0,708,10,middle,4,Boomer
+1617,1625,PostGrad,233,12,0,304,9,middle,3,Silent
+1618,1626,PostGrad,1092,21,0,845,11,middle,2,Gen X
+1619,1627,PostGrad,601,17,0,655,10,middle,1,Boomer
+1620,1628,Grad,54,10,0,313,9,lower,3,Millennial
+1621,1629,PostGrad,78,7,0,433,10,middle,3,Gen X
+1622,1630,PostGrad,1095,26,0,488,10,upper_middle,3,Silent
+1623,1631,PostGrad,244,13,0,437,10,middle,3,Gen X
+1624,1632,PostGrad,116,9,0,283,9,middle,4,Boomer
+1625,1633,Grad,15,4,0,561,10,lower,3,Gen X
+1626,1634,PostGrad,425,16,0,450,10,middle,4,Silent
+1627,1635,PostGrad,734,26,0,629,10,upper_middle,3,Boomer
+1628,1636,Grad,638,19,0,563,10,middle,2,Boomer
+1629,1637,Grad,894,22,0,456,10,upper_middle,2,Silent
+1630,1638,Grad,41,7,0,196,9,middle,4,Gen X
+1631,1639,PostGrad,31,5,0,553,10,middle,3,Gen X
+1632,1640,PostGrad,34,5,0,284,9,middle,4,Gen X
+1633,1641,PostGrad,1750,18,3,465,10,upper_middle,3,Boomer
+1634,1642,Grad,612,25,0,796,11,middle,4,Gen X
+1635,1643,Undergrad,29,5,0,387,10,lower,3,Gen X
+1636,1644,PostGrad,823,21,0,244,9,upper_middle,3,Gen X
+1637,1645,PostGrad,20,4,0,601,10,middle,1,Boomer
+1638,1646,PostGrad,396,16,0,385,10,upper_middle,3,Gen X
+1639,1647,Grad,813,21,1,199,9,upper_middle,1,Gen X
+1640,1648,Grad,1179,20,0,593,10,middle,1,Boomer
+1641,1649,PostGrad,138,10,0,239,9,middle,3,Silent
+1642,1650,Grad,55,9,0,309,9,lower,3,Millennial
+1643,1651,Grad,1511,22,0,864,11,upper_middle,1,Boomer
+1644,1652,Grad,117,9,0,846,11,middle,3,Boomer
+1645,1654,PostGrad,32,6,0,528,10,lower,2,Silent
+1646,1655,PostGrad,67,6,0,299,9,middle,2,Gen X
+1647,1656,PostGrad,335,15,0,583,10,middle,3,Boomer
+1648,1657,PostGrad,825,22,0,333,9,upper_middle,3,Boomer
+1649,1658,PostGrad,694,23,0,526,10,middle,3,Gen X
+1650,1659,Grad,1792,17,2,192,9,upper_middle,1,Gen X
+1651,1660,PostGrad,496,24,0,609,10,middle,3,Boomer
+1652,1661,Grad,231,13,0,596,10,middle,4,Gen X
+1653,1662,Grad,902,24,0,217,9,upper_middle,2,Gen X
+1654,1663,Grad,68,9,0,356,9,middle,3,Boomer
+1655,1664,PostGrad,71,6,0,477,10,middle,1,Millennial
+1656,1665,PostGrad,76,6,0,561,10,middle,2,Millennial
+1657,1666,PostGrad,772,22,0,499,10,upper_middle,4,Boomer
+1658,1667,PostGrad,47,9,0,368,10,middle,4,Boomer
+1659,1668,PostGrad,1586,25,0,408,10,upper_middle,3,Gen X
+1660,1669,PostGrad,1529,34,1,678,10,upper_middle,3,Boomer
+1661,1670,PostGrad,265,13,2,520,10,middle,1,Millennial
+1662,1671,Grad,1603,18,0,483,10,upper,2,Silent
+1663,1672,PostGrad,2091,22,1,720,10,upper_middle,2,Millennial
+1664,1673,PostGrad,981,21,1,577,10,upper_middle,2,Boomer
+1665,1674,Grad,1533,34,0,770,11,upper_middle,3,Gen X
+1666,1675,PostGrad,82,7,0,764,11,lower,2,Millennial
+1667,1676,Grad,244,14,0,647,10,lower,3,Gen X
+1668,1677,Undergrad,36,5,0,553,10,lower,2,Gen X
+1669,1678,PostGrad,404,16,0,688,10,middle,3,Gen X
+1670,1679,Grad,71,6,0,343,9,middle,3,Gen X
+1671,1680,Grad,1572,23,1,450,10,upper_middle,2,Gen X
+1672,1681,Grad,122,11,0,349,9,middle,4,Gen X
+1673,1682,PostGrad,41,10,0,789,11,lower,4,Boomer
+1674,1683,PostGrad,10,4,0,211,9,lower,3,Millennial
+1675,1684,Grad,304,13,0,433,10,middle,3,Silent
+1676,1685,Grad,37,5,0,282,9,middle,4,Gen X
+1677,1686,PostGrad,1754,16,0,876,11,upper_middle,1,Gen X
+1678,1687,Grad,815,25,2,527,10,middle,3,Gen X
+1679,1688,Grad,1001,27,0,727,10,upper_middle,2,Gen X
+1680,1689,Grad,1157,22,0,531,10,upper_middle,1,Millennial
+1681,1690,Grad,688,21,0,531,10,middle,2,Silent
+1682,1691,PostGrad,1319,19,0,544,10,upper_middle,1,Millennial
+1683,1692,PostGrad,21,4,0,681,10,lower,3,Millennial
+1684,1693,PostGrad,31,4,0,857,11,lower,2,Gen X
+1685,1694,Grad,67,6,0,731,11,lower,2,Millennial
+1686,1695,Grad,708,21,0,588,10,upper_middle,2,Silent
+1687,1696,PostGrad,25,4,0,834,11,middle,4,Gen X
+1688,1697,PostGrad,746,11,1,673,10,upper,2,Millennial
+1689,1698,PostGrad,32,5,0,831,11,middle,3,Boomer
+1690,1699,PostGrad,1695,25,0,302,9,upper_middle,3,Silent
+1691,1700,Grad,1080,28,0,853,11,upper_middle,3,Gen X
+1692,1701,PostGrad,72,9,0,277,9,middle,4,Boomer
+1693,1702,Grad,57,10,0,407,10,lower,2,Millennial
+1694,1703,PostGrad,660,25,0,286,9,middle,3,Gen X
+1695,1704,Undergrad,103,11,0,821,11,lower,3,Gen X
+1696,1705,PostGrad,153,11,0,465,10,middle,3,Millennial
+1697,1706,PostGrad,1220,32,1,833,11,upper_middle,3,Boomer
+1698,1707,Grad,279,13,0,868,11,middle,3,Boomer
+1699,1708,Grad,745,20,0,364,9,upper_middle,3,Gen X
+1700,1709,PostGrad,264,12,0,306,9,middle,3,Gen X
+1701,1710,Grad,2157,22,4,198,9,upper_middle,2,Millennial
+1702,1711,PostGrad,1526,23,3,491,10,upper_middle,3,Boomer
+1703,1712,Grad,69,6,0,632,10,middle,3,Gen X
+1704,1713,Grad,1597,26,1,782,11,upper_middle,2,Boomer
+1705,1714,Undergrad,64,8,0,217,9,lower,2,Millennial
+1706,1715,Grad,497,18,0,779,11,middle,3,Millennial
+1707,1716,Grad,1067,17,0,591,10,upper_middle,2,Boomer
+1708,1717,Grad,31,7,0,238,9,lower,4,Gen X
+1709,1718,Grad,211,14,0,483,10,middle,4,Gen X
+1710,1719,PostGrad,877,25,1,767,11,middle,3,Gen X
+1711,1720,Grad,11,4,0,718,10,lower,3,Gen X
+1712,1721,PostGrad,2034,25,3,610,10,upper,2,Millennial
+1713,1722,Grad,1991,19,3,383,10,upper,1,Millennial
+1714,1723,PostGrad,1686,24,1,274,9,upper_middle,1,Boomer
+1715,1724,PostGrad,324,17,0,338,9,middle,2,Millennial
+1716,1725,PostGrad,69,9,0,258,9,lower,2,Gen X
+1717,1726,Grad,252,16,0,794,11,middle,4,Boomer
+1718,1727,Undergrad,54,5,0,724,10,lower,2,Boomer
+1719,1728,PostGrad,964,27,0,664,10,upper_middle,4,Boomer
+1720,1729,Grad,1327,28,0,683,10,upper_middle,3,Silent
+1721,1730,PostGrad,68,7,0,284,9,middle,4,Boomer
+1722,1731,Grad,60,5,0,734,11,lower,2,Boomer
+1723,1732,Grad,55,5,1,614,10,middle,3,Boomer
+1724,1733,Grad,1456,21,1,295,9,upper_middle,2,Boomer
+1725,1734,PostGrad,563,18,0,605,10,upper_middle,2,Boomer
+1726,1735,Grad,1504,26,0,682,10,upper_middle,2,Boomer
+1727,1736,Grad,564,19,0,252,9,upper_middle,3,Boomer
+1728,1737,Grad,1125,23,1,401,10,upper_middle,2,Boomer
+1729,1738,Grad,358,17,1,222,9,middle,3,Boomer
+1730,1739,PostGrad,42,5,0,386,10,middle,3,Gen X
+1731,1740,Grad,184,10,1,252,9,middle,3,Boomer
+1732,1741,Grad,460,19,0,623,10,middle,3,Millennial
+1733,1742,PostGrad,145,8,0,218,9,middle,1,Silent
+1734,1743,Grad,1376,25,0,715,10,upper_middle,2,Silent
+1735,1744,PostGrad,792,23,0,711,10,upper_middle,2,Gen X
+1736,1745,Grad,1382,23,0,797,11,upper_middle,2,Silent
+1737,1746,Undergrad,28,4,0,772,11,lower,2,Silent
+1738,1747,PostGrad,1033,24,0,460,10,upper_middle,2,Silent
+1739,1748,Grad,882,23,0,582,10,upper_middle,2,Gen X
+1740,1749,PostGrad,2231,15,3,669,10,upper_middle,2,Silent
+1741,1750,PostGrad,1101,19,1,807,11,upper_middle,3,Boomer
+1742,1751,Grad,369,16,0,841,11,middle,3,Gen X
+1743,1752,PostGrad,48,5,0,308,9,middle,2,Gen X
+1744,1753,PostGrad,467,19,1,688,10,middle,2,Silent
+1745,1754,Grad,44,8,0,737,11,middle,3,Gen X
+1746,1755,Undergrad,38,10,0,655,10,lower,3,Gen X
+1747,1756,Grad,81,9,0,421,10,middle,4,Gen X
+1748,1757,PostGrad,167,10,0,515,10,middle,2,Gen X
+1749,1758,PostGrad,45,7,0,236,9,middle,4,Boomer
+1750,1759,Grad,664,21,0,585,10,upper_middle,3,Gen X
+1751,1760,PostGrad,622,20,0,478,10,upper_middle,3,Boomer
+1752,1761,PostGrad,48,7,0,662,10,lower,2,Gen X
+1753,1762,Grad,461,16,0,435,10,upper_middle,3,Gen X
+1754,1763,Grad,1073,26,0,499,10,upper_middle,3,Gen X
+1755,1764,PostGrad,55,8,0,481,10,lower,3,Millennial
+1756,1765,Grad,976,26,0,646,10,upper_middle,3,Boomer
+1757,1766,PostGrad,20,5,0,199,9,middle,2,Gen X
+1758,1767,Grad,1149,17,0,603,10,upper_middle,2,Millennial
+1759,1768,Undergrad,43,6,0,200,9,lower,2,Boomer
+1760,1769,PostGrad,224,10,1,438,10,middle,3,Gen X
+1761,1770,PostGrad,101,9,0,835,11,lower,2,Gen X
+1762,1771,PostGrad,209,10,0,623,10,middle,2,Silent
+1763,1772,Grad,968,21,0,818,11,upper_middle,1,Millennial
+1764,1773,PostGrad,1165,17,0,572,10,upper_middle,2,Silent
+1765,1774,Grad,24,5,0,289,9,middle,3,Boomer
+1766,1775,Grad,252,16,0,794,11,middle,4,Boomer
+1767,1776,Grad,165,12,0,855,11,middle,2,Millennial
+1768,1777,PostGrad,269,13,0,810,11,lower,2,Gen X
+1769,1778,PostGrad,102,7,0,513,10,middle,3,Gen X
+1770,1779,PostGrad,461,19,0,518,10,upper_middle,2,Millennial
+1771,1780,Undergrad,47,7,0,745,11,lower,2,Gen X
+1772,1781,PostGrad,144,10,0,318,9,middle,3,Gen X
+1773,1782,Grad,1338,24,0,809,11,upper_middle,2,Gen X
+1774,1783,Grad,917,25,0,399,10,upper_middle,3,Boomer
+1775,1784,Grad,318,17,0,730,10,middle,4,Gen X
+1776,1785,Grad,253,14,0,789,11,middle,3,Boomer
+1777,1786,Grad,502,20,0,832,11,middle,3,Gen X
+1778,1787,Grad,119,7,0,388,10,middle,3,Millennial
+1779,1788,PostGrad,1250,29,0,856,11,upper_middle,4,Gen X
+1780,1789,Grad,969,24,0,425,10,upper_middle,3,Gen X
+1781,1790,Grad,76,9,0,514,10,middle,4,Silent
+1782,1791,PostGrad,62,7,0,264,9,middle,3,Boomer
+1783,1792,PostGrad,1382,26,1,504,10,upper_middle,2,Boomer
+1784,1793,Grad,84,7,0,328,9,middle,2,Gen X
+1785,1794,Grad,255,14,1,537,10,middle,4,Silent
+1786,1795,PostGrad,43,5,0,566,10,lower,4,Boomer
+1787,1796,Grad,398,14,0,455,10,upper_middle,2,Boomer
+1788,1797,PostGrad,76,8,0,260,9,middle,2,Gen X
+1789,1798,Grad,902,15,1,209,9,upper_middle,4,Boomer
+1790,1799,PostGrad,823,21,0,244,9,upper_middle,3,Gen X
+1791,1800,Grad,1179,26,0,188,9,upper_middle,3,Gen X
+1792,1801,Grad,1921,29,1,809,11,upper_middle,3,Gen X
+1793,1802,PostGrad,185,10,0,613,10,upper_middle,4,Silent
+1794,1803,Grad,433,23,0,652,10,middle,3,Boomer
+1795,1804,Grad,34,6,1,356,9,middle,4,Silent
+1796,1805,Grad,907,27,0,572,10,middle,3,Boomer
+1797,1806,PostGrad,416,25,0,390,10,lower,3,Boomer
+1798,1807,Grad,44,10,0,576,10,lower,3,Boomer
+1799,1808,Grad,1588,17,0,248,9,upper,2,Boomer
+1800,1809,PostGrad,1797,17,1,787,11,upper_middle,1,Gen X
+1801,1810,Grad,40,6,0,819,11,middle,4,Boomer
+1802,1811,PostGrad,1143,21,0,776,11,middle,2,Boomer
+1803,1812,PostGrad,914,14,1,187,9,upper_middle,2,Gen X
+1804,1813,Grad,1502,12,1,711,10,upper_middle,2,Millennial
+1805,1814,Grad,1338,20,0,686,10,upper_middle,2,Boomer
+1806,1815,PostGrad,27,5,0,529,10,lower,3,Millennial
+1807,1816,PostGrad,763,22,1,460,10,upper_middle,3,Millennial
+1808,1817,Grad,1331,22,0,531,10,upper_middle,1,Silent
+1809,1818,Grad,525,19,0,488,10,middle,4,Boomer
+1810,1819,PostGrad,9,4,0,200,9,middle,4,Boomer
+1811,1820,Grad,953,16,1,269,9,upper_middle,3,Boomer
+1812,1821,PostGrad,68,7,0,447,10,middle,3,Gen X
+1813,1822,PostGrad,131,10,0,454,10,middle,3,Gen X
+1814,1823,Grad,882,23,0,510,10,upper_middle,3,Gen X
+1815,1824,PostGrad,1149,25,0,849,11,middle,2,Gen X
+1816,1825,Grad,37,5,0,473,10,lower,3,Gen X
+1817,1826,PostGrad,388,15,0,494,10,middle,2,Boomer
+1818,1827,Grad,1428,16,0,685,10,upper_middle,2,Millennial
+1819,1828,PostGrad,1633,24,0,588,10,upper_middle,2,Boomer
+1820,1829,PostGrad,173,10,0,589,10,lower,3,Gen X
+1821,1830,Grad,99,9,0,450,10,lower,2,Millennial
+1822,1831,Grad,215,12,0,657,10,middle,3,Boomer
+1823,1832,PostGrad,929,31,0,683,10,middle,3,Boomer
+1824,1833,Grad,219,12,0,287,9,middle,3,Gen X
+1825,1834,Grad,174,12,0,477,10,middle,4,Gen X
+1826,1835,Grad,92,9,0,752,11,middle,4,Gen X
+1827,1836,PostGrad,1052,25,0,479,10,upper_middle,2,Gen X
+1828,1837,Grad,275,14,1,650,10,middle,3,Boomer
+1829,1838,PostGrad,587,16,0,881,11,upper_middle,3,Boomer
+1830,1839,PostGrad,1662,33,0,831,11,middle,2,Boomer
+1831,1840,PostGrad,159,11,0,689,10,middle,3,Millennial
+1832,1841,PostGrad,1024,18,3,577,10,upper_middle,1,Silent
+1833,1842,PostGrad,35,7,0,253,9,lower,2,Gen X
+1834,1843,PostGrad,1042,15,0,488,10,upper_middle,2,Boomer
+1835,1844,PostGrad,395,19,0,390,10,upper_middle,4,Boomer
+1836,1845,PostGrad,557,23,3,841,11,upper,2,Gen X
+1837,1846,PostGrad,9,15,0,192,9,lower,4,Boomer
+1838,1847,Grad,69,6,0,542,10,middle,2,Millennial
+1839,1848,PostGrad,486,18,0,355,9,middle,3,Boomer
+1840,1849,Grad,34,6,0,333,9,lower,2,Millennial
+1841,1850,PostGrad,1365,28,2,835,11,upper_middle,1,Millennial
+1842,1851,Grad,13,4,0,592,10,lower,3,Gen X
+1843,1852,PostGrad,1401,21,0,794,11,upper_middle,2,Gen X
+1844,1853,Grad,1574,14,0,720,10,upper_middle,2,Boomer
+1845,1854,PostGrad,1323,20,0,478,10,upper_middle,1,Millennial
+1846,1855,PostGrad,1217,32,2,507,10,upper_middle,2,Gen X
+1847,1856,PostGrad,103,7,0,775,11,upper_middle,4,Silent
+1848,1857,PostGrad,84,7,0,546,10,lower,2,Gen X
+1849,1858,PostGrad,1536,23,0,705,10,upper_middle,2,Gen X
+1850,1859,Grad,581,18,0,835,11,middle,3,Millennial
+1851,1860,PostGrad,928,14,0,785,11,upper_middle,3,Boomer
+1852,1861,PostGrad,14,4,0,382,10,lower,1,Gen X
+1853,1862,Grad,424,15,0,512,10,upper_middle,2,Gen X
+1854,1863,Grad,960,14,0,444,10,upper_middle,3,Gen X
+1855,1864,Grad,1555,20,1,783,11,upper_middle,2,Millennial
+1856,1865,Grad,656,29,1,816,11,upper_middle,3,Gen X
+1857,1866,PostGrad,55,9,0,482,10,middle,4,Gen X
+1858,1867,Grad,20,5,0,235,9,middle,2,Millennial
+1859,1868,PostGrad,367,17,0,822,11,middle,3,Gen X
+1860,1869,PostGrad,2257,22,3,297,9,upper_middle,2,Gen X
+1861,1870,PostGrad,42,7,0,306,9,lower,2,Boomer
+1862,1871,Grad,1049,26,0,568,10,upper_middle,2,Boomer
+1863,1872,Grad,48,7,0,260,9,middle,3,Gen X
+1864,1873,PostGrad,685,25,0,729,10,upper_middle,2,Silent
+1865,1874,Grad,39,5,0,257,9,middle,2,Silent
+1866,1875,PostGrad,43,5,0,328,9,lower,1,Millennial
+1867,1876,PostGrad,835,21,0,868,11,middle,1,Boomer
+1868,1877,Grad,1515,20,1,345,9,upper_middle,2,Boomer
+1869,1878,PostGrad,1039,26,0,681,10,upper_middle,3,Silent
+1870,1879,Grad,1596,26,0,535,10,upper_middle,2,Gen X
+1871,1880,PostGrad,1828,18,0,808,11,upper_middle,2,Millennial
+1872,1881,PostGrad,34,6,1,246,9,middle,3,Gen X
+1873,1882,PostGrad,149,10,0,258,9,middle,2,Gen X
+1874,1883,PostGrad,946,23,1,592,10,upper_middle,2,Gen X
+1875,1884,PostGrad,28,6,0,227,9,middle,1,Millennial
+1876,1885,Grad,450,17,0,789,11,middle,2,Millennial
+1877,1886,PostGrad,46,5,0,347,9,middle,4,Boomer
+1878,1887,PostGrad,1702,16,1,420,10,upper,1,Gen X
+1879,1888,Grad,820,25,0,479,10,upper_middle,4,Gen X
+1880,1889,Grad,382,15,1,674,10,middle,3,Millennial
+1881,1890,PostGrad,2126,20,0,853,11,upper_middle,2,Millennial
+1882,1891,PostGrad,2069,20,3,244,9,upper,2,Millennial
+1883,1892,Grad,72,7,0,704,10,middle,3,Millennial
+1884,1893,Grad,732,28,2,212,9,upper_middle,2,Gen X
+1885,1894,Grad,801,11,0,220,9,upper_middle,1,Gen X
+1886,1895,Grad,236,12,0,438,10,middle,2,Silent
+1887,1896,Undergrad,80,5,1,844,11,lower,3,Gen X
+1888,1897,PostGrad,1685,15,1,276,9,upper,1,Boomer
+1889,1898,PostGrad,277,27,0,218,9,upper,1,Silent
+1890,1899,PostGrad,507,18,0,567,10,upper_middle,3,Silent
+1891,1900,PostGrad,68,7,0,677,10,middle,4,Boomer
+1892,1901,Grad,49,5,0,263,9,lower,1,Millennial
+1893,1902,PostGrad,397,15,0,289,9,upper_middle,2,Millennial
+1894,1903,Grad,39,9,0,434,10,middle,2,Gen X
+1895,1904,Grad,306,14,1,341,9,middle,3,Gen X
+1896,1905,Grad,976,14,0,600,10,upper_middle,2,Boomer
+1897,1906,PostGrad,1028,28,0,482,10,upper_middle,3,Gen X
+1898,1907,Grad,70,7,0,330,9,middle,3,Millennial
+1899,1908,Grad,46,5,0,653,10,middle,2,Boomer
+1900,1909,PostGrad,51,5,1,462,10,middle,3,Gen X
+1901,1910,PostGrad,1263,21,0,256,9,upper,2,Boomer
+1902,1911,Grad,1490,22,1,782,11,upper_middle,2,Gen X
+1903,1912,PostGrad,1564,24,0,809,11,upper_middle,2,Gen X
+1904,1913,Grad,1815,18,2,862,11,upper_middle,3,Boomer
+1905,1914,PostGrad,1198,31,0,706,10,middle,2,Boomer
+1906,1915,Grad,416,23,2,860,11,middle,2,Gen X
+1907,1916,Grad,85,6,0,684,10,lower,2,Millennial
+1908,1917,PostGrad,47,8,0,580,10,middle,2,Gen X
+1909,1918,Grad,137,8,0,680,10,lower,1,Gen X
+1910,1919,PostGrad,21,4,0,736,11,middle,4,Boomer
+1911,1920,PostGrad,70,6,0,193,9,middle,2,Gen X
+1912,1921,PostGrad,909,22,0,347,9,upper_middle,3,Gen X
+1913,1922,Grad,1676,22,4,803,11,upper,1,Boomer
+1914,1923,PostGrad,1735,26,1,457,10,upper_middle,1,Silent
+1915,1924,Grad,1191,30,0,723,10,upper_middle,3,Boomer
+1916,1925,PostGrad,24,5,0,483,10,lower,3,Gen X
+1917,1926,PostGrad,1182,20,2,769,11,middle,3,Gen X
+1918,1927,Grad,1280,14,0,557,10,upper_middle,2,Gen X
+1919,1928,Grad,1336,19,0,779,11,upper_middle,1,Boomer
+1920,1929,PostGrad,749,24,0,563,10,upper_middle,4,Boomer
+1921,1930,PostGrad,91,7,0,407,10,upper_middle,4,Gen X
+1922,1931,PostGrad,414,15,0,460,10,upper_middle,3,Silent
+1923,1932,PostGrad,44,9,0,359,9,lower,3,Millennial
+1924,1933,PostGrad,63,8,0,275,9,lower,4,Gen X
+1925,1934,Grad,901,23,0,633,10,upper_middle,3,Silent
+1926,1935,PostGrad,38,6,0,847,11,middle,4,Gen X
+1927,1936,PostGrad,455,20,0,662,10,middle,2,Boomer
+1928,1937,PostGrad,775,24,0,773,11,middle,2,Silent
+1929,1938,PostGrad,15,4,0,284,9,middle,3,Boomer
+1930,1939,Grad,38,6,0,488,10,lower,3,Gen X
+1931,1940,PostGrad,1512,22,3,329,9,upper_middle,2,Millennial
+1932,1941,Grad,43,5,0,717,10,lower,3,Silent
+1933,1942,Grad,42,5,0,877,11,lower,2,Gen X
+1934,1943,Grad,1089,23,0,251,9,upper_middle,2,Millennial
+1935,1944,PostGrad,162,9,0,839,11,middle,3,Gen X
+1936,1945,Grad,1272,19,0,694,10,upper_middle,1,Silent
+1937,1946,Grad,1173,20,0,790,11,upper_middle,2,Millennial
+1938,1947,PostGrad,816,22,0,195,9,upper_middle,3,Gen X
+1939,1948,Grad,74,9,0,641,10,middle,3,Gen X
+1940,1949,Grad,134,9,0,688,10,middle,3,Boomer
+1941,1950,PostGrad,157,9,0,542,10,middle,1,Silent
+1942,1951,Grad,561,18,0,470,10,middle,3,Gen X
+1943,1952,Grad,1336,19,0,234,9,upper_middle,1,Silent
+1944,1953,PostGrad,2092,23,0,871,11,upper_middle,2,Gen X
+1945,1954,PostGrad,463,16,0,404,10,upper_middle,1,Boomer
+1946,1955,PostGrad,1130,17,0,243,9,upper_middle,1,Silent
+1947,1956,Grad,20,5,0,349,9,lower,3,Gen X
+1948,1957,Grad,377,18,1,801,11,middle,2,Boomer
+1949,1958,Grad,1544,28,1,618,10,upper,1,Millennial
+1950,1959,PostGrad,138,10,0,239,9,middle,3,Silent
+1951,1960,PostGrad,1012,26,0,547,10,upper_middle,3,Boomer
+1952,1961,PostGrad,1766,15,3,541,10,upper_middle,1,Boomer
+1953,1962,Grad,45,9,0,198,9,middle,4,Gen X
+1954,1963,Grad,161,10,0,605,10,middle,3,Silent
+1955,1964,Grad,144,8,0,361,9,middle,2,Boomer
+1956,1965,Grad,1734,26,0,495,10,upper_middle,2,Silent
+1957,1966,Grad,823,22,0,436,10,upper_middle,3,Gen X
+1958,1967,Grad,1138,28,0,307,9,upper_middle,3,Boomer
+1959,1968,Grad,1429,21,1,673,10,upper_middle,1,Silent
+1960,1969,PostGrad,1371,21,2,343,9,upper,2,Gen X
+1961,1970,Grad,982,16,1,686,10,middle,2,Boomer
+1962,1971,Grad,44,5,1,282,9,middle,2,Millennial
+1963,1972,Grad,318,17,0,730,10,middle,4,Gen X
+1964,1973,Grad,434,16,0,634,10,middle,3,Gen X
+1965,1974,PostGrad,198,12,0,420,10,middle,4,Gen X
+1966,1975,Grad,359,25,0,453,10,lower,3,Gen X
+1967,1976,PostGrad,576,18,0,882,11,middle,2,Boomer
+1968,1977,PostGrad,88,11,0,468,10,middle,3,Gen X
+1969,1978,Grad,63,6,0,266,9,middle,3,Gen X
+1970,1979,PostGrad,27,4,1,757,11,middle,2,Millennial
+1971,1980,Grad,193,11,0,673,10,lower,3,Millennial
+1972,1981,PostGrad,101,9,0,835,11,lower,2,Gen X
+1973,1982,Grad,2211,21,2,323,9,upper,2,Silent
+1974,1983,PostGrad,140,8,0,570,10,upper_middle,3,Boomer
+1975,1984,Grad,415,22,0,688,10,middle,3,Gen X
+1976,1985,Grad,22,4,0,738,11,lower,3,Boomer
+1977,1986,Grad,263,16,0,694,10,middle,4,Gen X
+1978,1987,Grad,393,12,0,558,10,middle,2,Millennial
+1979,1988,Grad,147,10,0,437,10,lower,3,Millennial
+1980,1989,Grad,443,16,0,263,9,upper_middle,3,Boomer
+1981,1990,PostGrad,1958,19,1,381,10,upper_middle,1,Boomer
+1982,1991,PostGrad,174,10,0,644,10,middle,3,Gen X
+1983,1992,PostGrad,2217,27,1,441,10,upper,1,Silent
+1984,1993,Grad,1691,16,2,273,9,upper,2,Boomer
+1985,1994,Grad,25,6,0,624,10,lower,4,Boomer
+1986,1995,PostGrad,809,21,3,223,9,upper,2,Gen X
+1987,1996,Grad,895,16,1,855,11,upper_middle,2,Gen X
+1988,1997,PostGrad,484,18,0,737,11,middle,3,Gen X
+1989,1998,PostGrad,413,18,1,715,10,middle,3,Gen X
+1990,1999,PostGrad,331,12,0,364,9,upper_middle,2,Gen X
+1991,2000,Grad,25,5,0,664,10,lower,2,Gen X
+1992,2001,PostGrad,13,4,0,373,10,lower,2,Boomer
+1993,2002,Grad,115,10,0,847,11,lower,3,Gen X
+1994,2003,Grad,16,4,0,203,9,middle,1,Boomer
+1995,2004,PostGrad,92,9,0,470,10,middle,3,Gen X
+1996,2005,Grad,52,7,0,420,10,middle,3,Gen X
+1997,2006,Grad,1464,23,0,766,11,upper_middle,3,Gen X
+1998,2007,Grad,441,17,1,687,10,middle,2,Boomer
+1999,2008,PostGrad,283,12,0,471,10,upper_middle,2,Boomer
+2000,2009,PostGrad,747,23,0,305,9,upper_middle,3,Boomer
+2001,2010,Grad,1870,17,0,591,10,upper_middle,1,Boomer
+2002,2011,Grad,165,11,0,686,10,middle,2,Millennial
+2003,2012,Grad,1941,24,3,513,10,upper,2,Gen X
+2004,2013,Undergrad,839,27,0,704,10,middle,2,Gen X
+2005,2014,Grad,1655,25,0,877,11,upper_middle,1,Boomer
+2006,2015,PostGrad,23,4,0,643,10,middle,4,Gen X
+2007,2016,Grad,66,6,0,671,10,middle,2,Millennial
+2008,2017,Grad,37,8,0,626,10,lower,4,Boomer
+2009,2018,Grad,21,6,0,277,9,lower,3,Silent
+2010,2019,Grad,22,4,0,828,11,middle,5,Gen X
+2011,2020,Grad,78,9,0,323,9,lower,3,Gen X
+2012,2021,PostGrad,79,6,0,636,10,middle,3,Millennial
+2013,2022,Grad,265,17,0,345,9,middle,4,Boomer
+2014,2023,PostGrad,1175,19,0,330,9,upper_middle,3,Silent
+2015,2024,PostGrad,1305,28,0,684,10,upper_middle,3,Boomer
+2016,2025,PostGrad,46,8,0,312,9,middle,3,Gen X
+2017,2026,Grad,25,4,0,660,10,lower,4,Boomer
+2018,2027,Grad,46,5,0,441,10,lower,1,Silent
+2019,2028,PostGrad,874,26,1,846,11,middle,3,Silent
+2020,2029,PostGrad,100,10,0,883,11,lower,3,Millennial
+2021,2030,PostGrad,930,25,1,662,10,upper_middle,2,Silent
+2022,2031,Grad,868,23,0,401,10,upper_middle,3,Boomer
+2023,2032,Grad,45,9,0,415,10,lower,3,Gen X
+2024,2033,Grad,1260,29,0,612,10,middle,3,Gen X
+2025,2034,Grad,414,12,1,460,10,middle,3,Millennial
+2026,2035,Grad,392,15,0,392,10,upper_middle,3,Silent
+2027,2036,Grad,1109,29,0,819,11,upper_middle,4,Gen X
+2028,2037,Grad,639,22,0,579,10,upper_middle,2,Silent
+2029,2038,Grad,79,6,0,644,10,middle,3,Millennial
+2030,2039,Grad,1665,24,1,692,10,upper_middle,2,Millennial
+2031,2040,Grad,692,18,0,609,10,middle,1,Millennial
+2032,2041,Grad,1392,29,0,828,11,upper_middle,4,Gen X
+2033,2042,Grad,44,7,0,398,10,lower,3,Gen X
+2034,2043,PostGrad,50,6,0,396,10,middle,3,Gen X
+2035,2044,Grad,467,21,0,842,11,middle,3,Gen X
+2036,2045,Grad,223,12,0,397,10,middle,2,Gen X
+2037,2046,Grad,158,9,0,206,9,middle,3,Boomer
+2038,2047,Grad,1211,28,2,477,10,upper_middle,2,Gen X
+2039,2048,Grad,1575,14,0,867,11,upper_middle,2,Gen X
+2040,2049,PostGrad,1208,22,0,370,10,upper_middle,2,Silent
+2041,2050,Grad,43,5,0,663,10,middle,4,Silent
+2042,2051,Grad,527,21,1,466,10,middle,3,Gen X
+2043,2052,Grad,932,15,0,193,9,upper_middle,2,Boomer
+2044,2053,PostGrad,71,8,0,213,9,middle,3,Boomer
+2045,2054,Grad,54,5,0,189,9,middle,4,Silent
+2046,2055,Grad,129,7,0,653,10,lower,1,Boomer
+2047,2056,Grad,1615,27,0,817,11,upper_middle,2,Gen X
+2048,2057,PostGrad,1034,26,0,529,10,upper_middle,2,Gen X
+2049,2058,Grad,1088,25,0,726,10,upper_middle,3,Silent
+2050,2059,PostGrad,721,25,0,593,10,middle,4,Gen X
+2051,2060,Grad,137,10,0,370,10,middle,3,Gen X
+2052,2061,PostGrad,47,8,0,580,10,middle,2,Gen X
+2053,2062,PostGrad,1244,17,0,433,10,upper_middle,2,Millennial
+2054,2063,Grad,41,7,0,719,10,middle,4,Gen X
+2055,2064,Grad,1174,32,0,872,11,upper_middle,3,Gen X
+2056,2065,Grad,993,15,0,725,10,upper_middle,2,Silent
+2057,2066,Grad,100,7,0,482,10,middle,2,Silent
+2058,2067,PostGrad,1680,17,0,794,11,upper_middle,3,Silent
+2059,2068,Grad,98,9,0,271,9,middle,3,Millennial
+2060,2069,Grad,48,5,0,439,10,middle,3,Gen X
+2061,2070,Grad,519,19,0,514,10,middle,3,Silent
+2062,2071,Grad,715,20,0,372,10,upper_middle,3,Boomer
+2063,2072,Grad,37,5,0,473,10,lower,3,Gen X
+2064,2073,PostGrad,653,20,0,721,10,middle,1,Millennial
+2065,2074,Grad,1455,21,0,543,10,upper_middle,2,Millennial
+2066,2075,Grad,602,19,0,328,9,upper_middle,2,Gen X
+2067,2076,PostGrad,26,5,0,545,10,lower,3,Gen X
+2068,2077,Undergrad,102,7,0,280,9,lower,1,Boomer
+2069,2078,Grad,97,10,0,669,10,middle,4,Gen X
+2070,2079,PostGrad,207,11,0,557,10,middle,3,Boomer
+2071,2080,Grad,176,9,0,858,11,lower,3,Gen X
+2072,2081,Grad,450,15,0,440,10,middle,2,Boomer
+2073,2082,Grad,433,17,0,785,11,middle,3,Boomer
+2074,2083,Grad,1366,30,0,718,10,upper_middle,2,Millennial
+2075,2084,PostGrad,1564,22,1,428,10,middle,1,Silent
+2076,2085,Grad,1001,27,0,684,10,middle,3,Gen X
+2077,2086,PostGrad,961,18,0,747,11,upper,2,Millennial
+2078,2087,Grad,1518,23,1,276,9,upper_middle,3,Boomer
+2079,2088,Grad,56,8,0,454,10,middle,2,Gen X
+2080,2089,PostGrad,22,4,0,421,10,middle,3,Gen X
+2081,2090,PostGrad,400,21,0,488,10,middle,3,Gen X
+2082,2091,Undergrad,26,4,0,437,10,lower,2,Gen X
+2083,2092,Grad,350,13,0,244,9,upper_middle,3,Gen X
+2084,2093,Grad,1216,22,2,743,11,upper_middle,1,Millennial
+2085,2094,PostGrad,874,26,1,846,11,middle,3,Silent
+2086,2095,PostGrad,40,5,0,590,10,middle,4,Silent
+2087,2096,Grad,1367,19,0,458,10,upper_middle,2,Gen X
+2088,2097,Grad,264,15,0,583,10,middle,3,Boomer
+2089,2098,PostGrad,2053,20,2,824,11,upper_middle,3,Gen X
+2090,2099,Grad,1376,10,2,763,11,upper_middle,3,Gen X
+2091,2100,PostGrad,45,5,0,287,9,middle,4,Gen X
+2092,2101,PostGrad,976,27,0,224,9,upper_middle,3,Silent
+2093,2102,PostGrad,51,6,0,836,11,lower,3,Millennial
+2094,2103,PostGrad,1264,20,2,316,9,upper_middle,3,Gen X
+2095,2104,Undergrad,75,7,0,672,10,lower,2,Gen X
+2096,2105,Undergrad,57,7,0,794,11,lower,3,Millennial
+2097,2106,PostGrad,140,8,0,570,10,upper_middle,3,Boomer
+2098,2107,Grad,497,19,1,747,11,upper_middle,2,Gen X
+2099,2108,PostGrad,266,13,0,572,10,middle,3,Silent
+2100,2109,Grad,2006,21,1,836,11,upper_middle,1,Boomer
+2101,2110,Grad,615,23,0,578,10,upper_middle,3,Boomer
+2102,2111,PostGrad,1021,24,1,741,11,middle,2,Gen X
+2103,2112,Grad,22,6,0,230,9,middle,4,Silent
+2104,2113,PostGrad,133,7,0,426,10,middle,3,Gen X
+2105,2114,PostGrad,437,19,0,526,10,middle,3,Boomer
+2106,2115,PostGrad,1013,26,0,393,10,upper_middle,3,Gen X
+2107,2116,PostGrad,57,7,0,493,10,lower,3,Gen X
+2108,2117,PostGrad,1038,27,0,345,9,upper_middle,3,Silent
+2109,2118,PostGrad,1573,22,0,631,10,upper_middle,1,Boomer
+2110,2119,Grad,28,4,0,805,11,lower,2,Gen X
+2111,2120,PostGrad,123,9,0,841,11,middle,3,Gen X
+2112,2121,PostGrad,13,4,0,509,10,lower,4,Gen X
+2113,2122,Grad,132,10,0,854,11,middle,3,Gen X
+2114,2123,PostGrad,732,23,0,881,11,middle,3,Boomer
+2115,2124,Grad,66,7,1,195,9,middle,4,Boomer
+2116,2125,Grad,1631,24,3,454,10,upper_middle,2,Gen X
+2117,2126,Grad,608,18,0,517,10,upper_middle,3,Boomer
+2118,2127,PostGrad,1822,18,1,642,10,upper_middle,2,Millennial
+2119,2128,PostGrad,1282,23,0,850,11,upper_middle,2,Boomer
+2120,2129,Grad,8,4,0,424,10,middle,5,Gen X
+2121,2130,Grad,43,5,0,619,10,middle,2,Gen X
+2122,2131,PostGrad,1931,20,1,661,10,upper_middle,1,Gen X
+2123,2133,Undergrad,103,8,0,870,11,lower,3,Gen X
+2124,2134,PostGrad,1169,17,0,356,9,upper_middle,1,Boomer
+2125,2135,Grad,395,15,0,270,9,upper_middle,3,Boomer
+2126,2136,Grad,258,15,1,456,10,middle,3,Gen X
+2127,2137,Grad,25,5,0,235,9,lower,2,Gen X
+2128,2138,PostGrad,185,10,0,306,9,upper_middle,2,Boomer
+2129,2139,PostGrad,180,11,0,878,11,lower,3,Boomer
+2130,2140,Grad,22,5,0,336,9,lower,2,Gen X
+2131,2141,Grad,44,7,0,343,9,middle,4,Gen X
+2132,2142,Grad,94,12,0,699,10,middle,3,Gen X
+2133,2143,Grad,81,7,0,307,9,lower,2,Boomer
+2134,2144,Grad,798,28,2,349,9,upper_middle,2,Gen X
+2135,2145,Grad,1334,19,1,404,10,upper_middle,1,Boomer
+2136,2146,PostGrad,38,5,0,282,9,middle,3,Gen X
+2137,2147,PostGrad,61,11,0,283,9,middle,5,Boomer
+2138,2148,PostGrad,300,16,0,544,10,upper_middle,4,Gen X
+2139,2149,PostGrad,88,8,0,446,10,middle,3,Boomer
+2140,2150,PostGrad,54,7,0,382,10,middle,4,Boomer
+2141,2151,Grad,1782,16,1,836,11,upper_middle,2,Gen X
+2142,2152,Grad,68,11,0,338,9,lower,3,Gen X
+2143,2153,Grad,258,15,1,456,10,middle,3,Gen X
+2144,2154,PostGrad,31,5,0,553,10,middle,3,Gen X
+2145,2155,PostGrad,66,8,0,234,9,middle,3,Millennial
+2146,2156,PostGrad,174,13,0,247,9,middle,3,Boomer
+2147,2157,PostGrad,28,5,0,344,9,middle,3,Gen X
+2148,2158,PostGrad,731,22,1,295,9,upper_middle,3,Boomer
+2149,2159,Grad,274,12,0,341,9,upper_middle,2,Boomer
+2150,2160,PostGrad,1701,26,0,812,11,upper_middle,3,Boomer
+2151,2161,Grad,312,13,0,303,9,upper_middle,3,Gen X
+2152,2162,Grad,414,20,0,518,10,middle,3,Boomer
+2153,2163,PostGrad,1565,23,1,577,10,upper_middle,1,Silent
+2154,2164,Undergrad,29,6,0,430,10,lower,2,Millennial
+2155,2165,PostGrad,94,8,0,556,10,middle,2,Gen X
+2156,2166,Grad,1338,20,0,686,10,upper_middle,2,Boomer
+2157,2167,PostGrad,1092,14,4,645,10,upper,1,Millennial
+2158,2168,Grad,1479,18,3,374,10,upper,2,Millennial
+2159,2169,Grad,54,5,0,404,10,middle,3,Gen X
+2160,2170,Grad,568,18,1,302,9,upper_middle,2,Boomer
+2161,2171,PostGrad,1199,27,3,552,10,upper_middle,1,Gen X
+2162,2172,Grad,873,23,0,349,9,upper_middle,3,Gen X
+2163,2173,Grad,1213,17,0,521,10,upper_middle,3,Silent
+2164,2174,Grad,731,22,2,297,9,upper_middle,3,Boomer
+2165,2175,PostGrad,2043,19,2,720,10,upper_middle,2,Gen X
+2166,2176,PostGrad,1893,17,0,740,11,upper_middle,1,Boomer
+2167,2177,PostGrad,424,19,0,805,11,middle,2,Gen X
+2168,2178,Grad,575,15,1,724,10,middle,3,Gen X
+2169,2179,Grad,257,12,0,434,10,middle,3,Boomer
+2170,2180,Grad,56,9,0,423,10,lower,3,Gen X
+2171,2181,PostGrad,542,21,1,665,10,middle,3,Gen X
+2172,2182,Grad,125,7,0,253,9,middle,2,Boomer
+2173,2183,Undergrad,69,9,0,591,10,lower,2,Gen X
+2174,2184,PostGrad,40,5,0,289,9,middle,3,Boomer
+2175,2185,Grad,1016,28,1,721,10,upper_middle,3,Boomer
+2176,2186,PostGrad,907,23,1,329,9,upper_middle,3,Gen X
+2177,2187,PostGrad,1566,24,1,235,9,upper_middle,2,Boomer
+2178,2188,PostGrad,1169,17,0,356,9,upper_middle,2,Boomer
+2179,2189,Undergrad,46,7,0,291,9,lower,3,Gen X
+2180,2190,PostGrad,1644,25,0,675,10,upper,1,Millennial
+2181,2191,Grad,59,5,0,679,10,middle,3,Gen X
+2182,2192,Grad,17,4,0,882,11,lower,2,Silent
+2183,2193,PostGrad,1853,25,2,786,11,upper_middle,2,Boomer
+2184,2194,Grad,1528,22,1,883,11,upper_middle,3,Boomer
+2185,2195,PostGrad,35,10,0,650,10,lower,3,Silent
+2186,2196,Grad,141,8,0,255,9,middle,1,Gen X
+2187,2197,Grad,546,17,1,498,10,middle,3,Gen X
+2188,2198,Grad,500,20,1,562,10,middle,4,Boomer
+2189,2199,Grad,61,10,0,189,9,middle,4,Gen X
+2190,2200,Undergrad,106,8,0,514,10,lower,2,Millennial
+2191,2201,Grad,704,26,0,769,11,middle,2,Gen X
+2192,2202,PostGrad,424,19,0,805,11,middle,2,Gen X
+2193,2203,Grad,849,23,0,729,10,upper_middle,3,Gen X
+2194,2204,Grad,85,6,0,684,10,lower,2,Millennial
+2195,2205,Grad,199,15,0,808,11,middle,3,Gen X
+2196,2206,Grad,1147,20,0,873,11,upper_middle,3,Gen X
+2197,2207,Grad,54,10,1,284,9,middle,4,Boomer
+2198,2208,Undergrad,43,5,0,755,11,lower,3,Boomer
+2199,2209,Grad,53,6,0,535,10,middle,3,Boomer
+2200,2210,PostGrad,521,22,0,687,10,middle,2,Boomer
+2201,2211,Grad,1623,18,0,330,9,upper,2,Gen X
+2202,2212,PostGrad,45,7,0,245,9,middle,3,Silent
+2203,2213,PostGrad,1435,19,0,811,11,upper_middle,1,Millennial
+2204,2214,Grad,32,1,0,520,10,lower,3,Gen X
+2205,2215,Grad,16,4,0,742,11,middle,4,Boomer
+2206,2216,Grad,52,7,0,651,10,lower,3,Millennial
+2207,2217,PostGrad,1234,17,0,271,9,upper_middle,1,Silent
+2208,2218,Grad,15,4,0,561,10,lower,3,Gen X
+2209,2219,PostGrad,415,17,0,809,11,middle,3,Millennial
+2210,2220,Grad,470,18,0,401,10,upper_middle,3,Gen X
+2211,2221,PostGrad,1438,21,2,546,10,upper_middle,1,Millennial
+2212,2222,PostGrad,53,11,0,604,10,lower,3,Gen X
+2213,2223,PostGrad,51,9,0,190,9,middle,5,Boomer
+2214,2224,PostGrad,679,22,1,357,9,middle,2,Gen X
+2215,2225,Grad,586,22,0,827,11,upper_middle,4,Gen X
+2216,2226,Grad,653,26,0,648,10,upper_middle,4,Gen X
+2217,2227,Grad,468,19,0,669,10,upper_middle,2,Boomer
+2218,2228,PostGrad,1679,1,1,872,11,middle,2,Gen X
+2219,2229,Grad,50,7,0,228,9,lower,4,Gen X
+2220,2230,Grad,84,9,1,656,10,lower,2,Millennial
+2221,2231,PostGrad,1049,27,0,863,11,middle,1,Gen X
+2222,2232,Grad,22,4,0,867,11,lower,1,Millennial
+2223,2234,Grad,30,4,0,549,10,middle,3,Gen X
+2224,2235,Grad,1341,18,0,567,10,upper_middle,3,Boomer
+2225,2236,PostGrad,444,22,1,205,9,upper_middle,5,Silent
+2226,2237,Grad,1241,19,1,341,9,middle,1,Gen X
+2227,2238,PostGrad,843,23,0,342,9,upper_middle,3,Boomer
+2228,2239,PostGrad,172,11,0,808,11,middle,4,Boomer
